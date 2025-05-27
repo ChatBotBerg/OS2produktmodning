@@ -1,8 +1,9 @@
-title: My COrner
+title: Bergs Corner
 description: A site where i share my professional experiences, considerations, concerns and results
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://chatbotberg.github.io/BergsCorner/
 
 aux_links:
+  Professional associacion: https://github.com/OS2offdig
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
