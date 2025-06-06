@@ -1,36 +1,22 @@
 #Url;https://chatbotberg.github.io/BergsCorner/
 ********
-# [Replace with Project Title]
-> Replace this subtitle section with a clear statement defining the mission and goals of your project in a few simple terms.
+# Bergs Corner
 
-[How It Works](#🧭-how-it-works) | [Architecture](#architecture) | [ How to Install and Run](#▶️-how-to-install-and-run)
+This repository and assiciated website is used order for me to share my professional area of interests to my peers, sollaboration partners og key stakeholders.
 
-## 🧭 How It Works
-> Replace with a brief, clear explanation of how the codebase works to achieve the stated mission objectives.
+The site will not contain any types of confidential material and is only to be seen as my private strategies or point of view. The strategies, gameplans, descriptions and work schedules presented at this site is also to be seen as work in progress,as i am using this site to facilitate professopnal discussions/eschange of viewpoints with my collegues, professional peers and key stakeholders.
 
-#### Architecture
+he site has no direct link to the topics i am handling at work, but is only to be seen as a place to elaborate on areas of intrest for me professionally and interlectually. 
 
-> Replace with a Brief introduction to the project's high-level architecture. Link to the architecture documentation with a diagram preferably in mermaid syntax.
-[ARCHITECTURE.MD](./docs/ARCHITECTURE.MD)
+I aim to include direct link to situations where the discussed topics has been used professionally, in order to establish trust and tansparancy.
 
-#### Key Features
+To make the content of this repository esay to reuse in a Danish context, manin part of The content of this page will be in danish. 
 
-> Replace this with a brief explaination of the main features or functionalities of your project.
+Anyone interesting in elaborating over the presented viewpoints are welcome to raise a discussion in the Issuetracker.
 
-## ▶️ How to Install and Run
-> Replace with clear, concise instructions on how to install and run the codebase for development, test and production setups. Link to repositories containing deployment templates that automates deployment
+##Disclaimer
+The content of this page is presenting my elsborations, considerations and understandings of a given topic only. 
 
-#### Setting up a development enviroment
-> Describe how to get a development enviroment up and running
-
-#### Deploying to production
-> Describe the different deployment methods for the project. Please adhere to the deployment standards recommended by OS2 when describing how to get the project running in production.
-
-#### 
-
-## :star: Examples
-
-> Replace with examples demonstrating key functionality, code-snippets such as command-line usage, API calls or if needed screendumps
 
 ---
 
