@@ -7,3 +7,40 @@ url: https://chatbotberg.github.io/BergsCorner/
 aux_links:
   Professional associacion: https://github.com/OS2offdig
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
+# Enable or disable the side/mobile menu globally
+# Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
+nav_enabled: true
+
+# Sort order for navigation links
+# nav_sort: case_insensitive # default, equivalent to nil
+nav_sort: case_sensitive # Capital letters sorted before lowercase
+
+
+# Show navigation error report
+nav_error_report: true # default is false/nil.
+
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "docs"
+      nav_exclude: true
+      submodules:
+        - "/docs/scripts/community-scripts/"
+        - "/docs/scripts/core-scripts/"
+
+
+translations:
+  boolean: "Afkrydsningsfelt"
+  string: "Streng"
+  int: "Heltal"
+  date: "Dato"
+  password: "Adgangskode"
+  file: "Fil"
+  time: "Tid"
+  text_field: "Valgmuligheder"
