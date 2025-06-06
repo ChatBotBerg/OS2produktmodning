@@ -19,7 +19,6 @@ nav_enabled: true
 # nav_sort: case_insensitive # default, equivalent to nil
 nav_sort: case_sensitive # Capital letters sorted before lowercase
 
-
 # Show navigation error report
 nav_error_report: true # default is false/nil.
 
@@ -33,7 +32,6 @@ defaults:
       submodules:
         - "/docs/scripts/community-scripts/"
         - "/docs/scripts/core-scripts/"
-
 
 translations:
   boolean: "Afkrydsningsfelt"
