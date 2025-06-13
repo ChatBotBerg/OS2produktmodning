@@ -1,6 +1,5 @@
 ---
-title: OM OS2BorgerPC
-layout: home
+xxxxx
 ---
 
 # OS2BorgerPC går en tid i møde med fokus på øget fleksibilitet og brugerinvolvering
