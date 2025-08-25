@@ -1,12 +1,24 @@
 ---
-title: Home
 layout: home
+title: Home
+nav_order: 1
 ---
-This repository and assiciated website is used in order for me to share my professional area of interests to my peers, sollaboration partners og key stakeholders.
 
-The site will not contain any types of confidential material and is only to be seen as my private strategies or point of view.
-The strategies, gameplans, descriptions and work schedules presented at this site is also to be seen as work in progress,as i am using this site to facilitate professopnal discussions/eschange of viewpoints with my collegues, professional peers and key stakeholders.
+# Velkommen til OS2 Talentudvikling
 
-I aim to include direct link to any formally approved and/or adobted versions of the presented material, in order to establish trust and tansparancy in my work.  
+Velkommen til OS2 Taleltudvikling, en platform som jeg bruger til at dele mit professionelle virke med kolleger, samarbejdspartnere og interessanter.
 
-As my key stakeholders are native danish speaking, main part of the Information presented will be in danish.
+Det materiale du finder her er mine faglige og erfaringsbaserede anbefalinger til de  
+
+📆 _sidst opdateret: {{ site.time | date: '%B %d, %Y' }}_
+
+
+Dette arkiv og den tilhørende hjemmeside bruges til at dele mine professionelle interesseområder med mine kolleger, samarbejdspartnere og vigtige interessenter.
+
+Hjemmesiden vil ikke indeholde nogen former for fortroligt materiale og skal kun ses som mine private strategier eller synspunkter.
+
+Strategierne, spilleplanerne, beskrivelserne og arbejdsplanerne, der præsenteres på denne hjemmeside, skal også ses som igangværende arbejde, da jeg bruger denne hjemmeside til at facilitere professionelle diskussioner/udveksling af synspunkter med mine kolleger, professionelle kolleger og vigtige interessenter.
+
+Jeg bestræber mig på at inkludere direkte links til alle formelt godkendte og/eller vedtagne versioner af det præsenterede materiale for at etablere tillid og transparens i mit arbejde.
+
+Da mine vigtigste interessenter er dansktalende, vil hovedparten af ​​den præsenterede information være på dansk.
