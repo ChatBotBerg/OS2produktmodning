@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: "Blog indlæg H1 2025"
