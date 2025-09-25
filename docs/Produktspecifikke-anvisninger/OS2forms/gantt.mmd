@@ -1,28 +1,7 @@
----
-layout: default
-title: "Releaseplan 2025"
-author: "Anna-Lis Berg"
-date: "19-08-2025"
-status: "Udkast" 
-parent: "Os2forms"
-nav_order: 1
-has_children: false
----
----
-    15.09.2025: Releasen er klart defineret, dokumenteret og estimeret
-    29.09.2025: Releasen er godkendt af koordinationsgruppen
-    20.10.2025: Releasen er klar til test
-    10.11.2025: Releasen er testet og accepteret
-    17.11.2025: Releasen er gennemført (merget til main branch)
-
-
----mermaid
-
 gantt
-
-    dateFormat:  YYYY-MM-DD
-    title:       "OS2Forms Scope af efterårsreleasen"
-    excludes:    weekends
+    dateFormat  YYYY-MM-DD
+    title       OS2Forms Scope af efterårsreleasen
+    excludes    weekends
     tickInterval 1week
     %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week ("sunday") or "weekends", but not the word "weekdays".)
 
@@ -43,5 +22,3 @@ gantt
     3. møde med Belcom                             :milestone, a8,2025-10-08, 0d
     Belcom opdaterer releaseplan                    :des6, after a8, 3d
     Releaseplan er endelig godkendt                :milestone, a9,2025-10-15, 0d
-
-```

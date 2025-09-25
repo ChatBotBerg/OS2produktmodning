@@ -1,5 +1,20 @@
 
-# OS2BorgerPC går en tid i møde med fokus på øget fleksibilitet og brugerinvolvering
+---
+layout: default
+title: "Blog indlæg H1 2025"
+author: "Anna-Lis Berg"
+date: "19-09-2025"
+status: "færdigt" 
+parent: "OS2borgerpc"
+nav_order: 15
+has_children: false
+---
+---
+📆 _sidst opdateret: {{ site.time | date: '%B %d, %Y' }}_
+
+# 2025 Lanciering af ny produkt version 
+---
+##  OS2BorgerPC går en tid i møde med fokus på øget fleksibilitet og brugerinvolvering
 
 ## Introduktion
 Efter mere end 12 års succes med at levere sikre borgervendte arbejdsstationer står OS2BorgerPC over for en betydelig forvandling. Den nye strategi har til formål at øge fleksibiliteten, fremme fællesskabet og give brugerne større valgfrihed. Denne artikel omhandler de specifikke ændringer, der implementeres, samt hvad de konkret betyder for kommuner og andre offentlige instanser.
