@@ -20,6 +20,11 @@ til et genbrugelig implementationsneutral OS2 produkt.
 
 **Strategi og målbillede for overdragelsen***
 
+Det overordnede mål at sikre en glidende overdragelse af ansvar, ejerskab og beslutningsret, så man undgår at påvirke driftstabilitet, sikkerhedsnuveauet og udbredelseshastigheden negativt.
+En overdragelse baseret mere på samarbejde og fælles indsats, end på vidensoverdragelse og kontraktuelle trækasserier. 
+
+
+
 **Plan for overdragelse**
 
 **Milepæle:**
