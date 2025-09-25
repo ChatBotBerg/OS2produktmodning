@@ -5,7 +5,7 @@ theme: just-the-docs
 mermaid:
   # Version of mermaid library
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
-  version: "11.9.0"
+  version: "11.12.0"
 
 url: https://chatbotberg.github.io/BergsCorner/
 
