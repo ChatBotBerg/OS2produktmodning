@@ -8,49 +8,125 @@ parent: "OS2display"
 nav_order: 1
 has_children: false
 ---
-**Baggrund og motivation**
+## Baggrund og motivation
 
-OS2display står ligenu overfor udfordringerne med at fremme udbredelse af det udviklede produkt, øge skalerbarheden og sikre genbrugelighed.
+OS2display står lige nu overfor udfordringerne med at fremme udbredelse af det udviklede produkt, øge skalerbarheden og sikre genbrugelighed.
 Udvikling og vedligehold af OS2display har indtil ny været koordineret og financieret af Borgmesterens afdeling i Aarhus kommune,  og lagt ud til fri afbenyttelse I OS2's Gihub.
-Det er ITKdev fra Aarhus kommune der har stået for både udvikling og vedligehold af kildekode, og Bellcom eller kommunerne selv der har stået for driften.
+Det er ITK-dev fra Aarhus kommune der har stået for både udvikling og vedligehold af kildekode, og Bellcom eller kommunerne selv der har stået for driften.
 
-Nu er der imidlertid så meget interesse for produktet at det er tid til formelt at overdrage både ejerskabet, ansvaret og financieringen til OS2fællesskabet. 
-En overdragelse som kræver både fokus, dedikation og opmærksomhed, så den kan skabe præcedens for hvordan man enkelt og smidigt forvandler en myndighedsspecifik leverandørdrevet løsning
+Nu er tiden imidlertid kommet til formelt at overdrage både ejerskabet, ansvaret og financieringen til OS2 fællesskabet, for derigennem at sikre genbrugelighed og udbredelse.
+
+En sådan overdragelse kræver både fokus, dedikation, opmærksomhed og smasrbejde fra alle sider. Arbejdsprocesserne omkring udvikling og vedligehold skal løftes ud af en myndigheds specifik kontekst og ind i et fælles offentlig økosystem. Koden skal gøres implementations neutral og udviklingsmetodikken skal understøtte OpenSource metodikkerrne for contribution, shared responsibilities og klare exit strategier.  
+
+Lykkes vi med at sikre dette dette vil overdragelsen ikke alene tilføre endnu et robust produkt til OS2 fællesskabets portefølje, den ville også kunne danne præcedens for hvordan man enkelt, hurtigt  og smidigt forvandler en myndighedsspecifik leverandørdrevet løsning
 til et genbrugelig implementationsneutral OS2 produkt.
 
-**Strategi og målbillede for overdragelsen***
+## Strategi og målbillede
 
 Det overordnede mål at sikre en glidende overdragelse af ansvar, ejerskab og beslutningsret, så man undgår at påvirke driftstabilitet, sikkerhedsnuveauet og udbredelseshastigheden negativt.
 En overdragelse baseret mere på samarbejde og fælles indsats, end på vidensoverdragelse og kontraktuelle trækasserier. 
 
+Overdragelses planen bygger på et indgående forståelse af nåde Open Source udvikling og produkt overdragelse. Den tager højde for at produktets grundlæggende funktionalitet og kvalitet afspejler behov og krav hos den afgivne kommune og at de kommende anvenderes forventninger er tårnhøje i forhold til generalitet, genbrugelighed og hurtig implementering.
 
+## Omdrejningspunkt og fokus
 
-**Plan for overdragelse**
+Overdragelsens fokus er derfor mere på at sikre det bedst mulige resultat for alle end på at kunne udpege hvem der bærer skylden, og derfor skal betale prisen, for misforståelser og fejl. 
 
-**Milepæle:**
+Planen er en samarbejdsplan hvor man løbende overdrager roller og ansvar mellem parterne og flittigt dokumenterer strategiske, taktiske og operationelle aftaler, fejltagelser og resultater.
 
+Målet er ikke alene af etablere det bedst mulige forvaltningsregime omkring en genbrugelig anvendelig og billig OpenSource løsning, det er også at OS2 bliver 100 meter mestre i at håndtere transformationen fra myndighedsspecifikke løsninger til nationalt genbrugelige OpenSource produkter.
+
+## Temaer, faser  og aktiviteter
+
+**Overdragelses aktiviteterne er opdelt i fire temaer:**
+1. Kontrakt og ejerskab
+2. Produktfællesskabets styringsmodel
+3. Daglig praksis for vedligehold og dokumentation
+4. Produktudvikling, modenhed og kvalitet
+
+For hvert tema handler det om at identificere gabet mellem den faktiske tilstand og målbilleded for OS2 fællesskabet, så man sammen kan aftale hvad der som minimum skal være på plads inden overdragelsen, hvad man justerer undervejs og hvad OS2 skal håndtere selv efter overdragelse. 
+
+Alle aftaler bør fokumenteres i en beslutnings log, således at deres opfyldelses grad og success kan evanlueres under og efter selve overdragelsen.
+   
+**Hvert tema er bygget op omkring en aktivitetskæde der har følgende faser:**
 
 ```mermaid
-gantt
-    dateFormat  YYYY-MM-DD
-    title       "Strategisk plan for overdragelsen"
-    excludes    weekends
-    tickInterval 1week
-    %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week ("sunday") or "weekends", but not the word "weekdays".)
 
-    Section xxxxxxx
-    periode 1                                                  :des1, 2025-08-04, 2025-09-15
-    milestone 1      :crit, milestone, a2,2025-09-15, 0d
+flowchart LR
+   Duedilligence --> Preparation --> Handover --> hypercare --> Phase_out
+
+
 ```
+|
+Fase                     |  Formål  | 
+| :---------------------- | :------ | 
+| Ejerskab  | Overdragelse af det juridiske ansvar |
+|Styringsmodel        | Overdragelse af beslutningskompetence 
+|Daglig praksis              | overgang til OS2 best practice for vedligehold og dokumentation|
+|Produktudvikling       | overdragelse af kildekode, IPR og produkt ansvar|
+| |  | 
+
+
+
+## Milepæle og tidsperspektiv
+
+Overdragelsesn strategiske milepæle følger kalender- og budget-året
+
+- Forberedelserne til overdragelsen blev påbegyndt i andet kvartal 2025
+- Overdragelsesprocessen blev igangsat i 3 kvartal 2025 
+- Den juridiske overdragelse sker den 1 Januar 2026
+- Hypercare pågår første halvår af 2026
+- Phaseout påbegyndes september 2028 og løber året ud
+- Overdragelsesprojektet lukkes 30 december 2026
+
+
+
+#### Overordnet plan for overdragelsen af os2 display:
+
 ```mermaid
-gantt
-    dateFormat  YYYY-MM-DD
-    title       "Detailplan for 2025 aktiviteter"
-    excludes    weekends
-    tickInterval 1week
-    %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week ("sunday") or "weekends", but not the word "weekdays".)
+%% Help: Milestones are displayed using Mermaid timeline syntax. Please include a section for each milestone and identify all tasks releated to reaching the goal.
+%% Mermaid documentation for timeline syntax: https://mermaid.js.org/syntax/timeline.html
+%%{init: { 'theme': 'forest', 'timeline': {'disableMulticolor': true}}}%%
+timeline
+    section Due dilligence
+      Q2 & Q3 2025 : Beskrive formål, vision og mission
+                   : Aftal betingelser og spilleregler for overdragelse
+                   : Analyser AS IS situationen
+                   : Identificer væsentligste Gabfejl og mangler i kodebase o
+                   : Idnetificer kritiske forskelle i forvaltningspraksis
+                   : Identificer lavth hængende frugter & mulige workarrounds
+                   : påbegynd udvidelse af produktfællesskabet
+                   : Udbred kendskabet til løsningen
+    section Preparation
+      Q4 2025      : Etabler styrende organer i produktsamarbejded
+                   : Overdrag strategisk planlægning til produktfællesskabet
+                   : Stabiliser Kodebasen og håndter eller beskriv kendte fejl og mangler
+                   : Identificer og dokument core elementerne i kildekoden
+                   : Udarbejd en fælles plan for håndtering af de idntificerede fejl og mangler i kodebasen
+                   : Udarbejd en plan for gradvis revision af forvaltningspraksis 
+                   : Dokumenter fremtidig ansvar for vedligehold og videreudvikleing af alle elementer i kildekoden
+                   : Dokumenter produktets kontrakt sturktur og udarbejd aftaler for 2026
+                   : Udpeg en acting product owner og aftal regler for release styring og kode review
+    section Handover
+      Q1 & Q2 2025  : Overdrag det juridiske og økonomiske ansvar for Core elementerne
+              : Udarbejd en strategi for vedligehold og videreudvikling
+              : Dokumenter ansvar for vedligehold og videreudvikleing af alle elementer i kildekoden
+              : Konsolider kildekoden i OS2's repositories
+              : Påbegynd implementering af Opensource standard praksis for sikkerhed og samarbejde
+              : Revider produktets contribution guideline
+              : Revider forvaltningsorganisationen og revider persongalleri, roller og ansvar. 
+              : Indfør separation of duity igennem hele forsyningskædem
+    section Hypercare
+      Q3 2025 : Evaluer resultatet af overdragelsen og håndtere identificerede fejl og mangler
+              : automatiser releaseprocessen og 
+              : Udarbejd formelle kontrakter for fremtidig udvikling og vedligehold af Kildekodem
+              : Revider forvaltningsorganisationen og revider persongalleri, roller og ansvar. 
+              : udpeg coreteam & github maintainers
 
-    Section xxxxxxx
-    periode 1        :des1, 2025-08-04, 2025-09-15
-    milestone 1      :crit, milestone, a2,2025-09-15, 0d
+    section Phaseout
+      Q4 2026 : Evaluer handoverprodessen og identificer forbedringer
+              : Luk projektet ned
+              : Udfas alle former fo særstatus og midlertidige rutiner. 
+
 ```
+  

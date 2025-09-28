@@ -89,8 +89,8 @@ Vi kan forbedre produktforvaltningen på en kosteffektiv måde ved  gradvist at 
 Vi kan systematisere, standardisere og kvalitetsforbedre  produktforvaltningen gennem øget vidensdeling på tværs af produkter roller og ansvar.
 
 1. Etablering af et faglig netværk omkring produktforvaltning
-2. Etablering af model for interessebaserede faglige netværk på tværs af produkter, projekter og professioner
-3. Standardisering af årshjul for produkterspecifikke erfagrupper
+2. Standardisering af årshjul for produkterspecifikke erfagrupper
+3. Etablering af model for interessebaserede faglige netværk på tværs af produkter, projekter og professioner
 
 #### 4) Mere fremdrift - i produktudbredelsen
 
@@ -106,5 +106,41 @@ Vi an skabe mere fremdrift i produktudviklingen ved at anvende professionelle ak
 De overordnede milepæle for indsatsområdet er delvis bestemt af OS2 organisationens økonomiske frekvens og formåen og delvist fastlagt med udgangspunkt i organisationens aktuelle behov og krav. 
 
 #### Milepælene er som flg :
-- xxxxx
-- 
+
+
+Ide og rammesætning : (01.09.2025 - 15.10.2025)
+
+Mere Supervision
+- Forberedele og planlægning
+- Eksekvering
+  - Udvidelse af basisstab
+  - Frikøb af kommunale kræfter
+  - Udlicitering af drift og vedligehold
+- Afrundign og evaluering
+  
+Mere Support
+- Forberedelse og planlægning
+- Eksekvering
+  - POC
+  - MVP
+  - Udruldning 
+- Afrundign og evaluering
+  
+Mere Vidensdeling
+- Forberedelse og planlægning
+- Eksekvering
+  - Faglig netværk for produktforvaltning (POC)
+  - Årshjul for produkterspecifikke erfagrupper (MVP)
+  - Model for faglige netværk på tværs (udruldning)
+- Afrundign og evaluering
+  
+Mere fremdrift
+- Forberedelse og planlægning
+- Eksekvering
+  - Etablering af Architectual board
+  - ID/leverandører til Github maintenance og automatisering
+  - ID/leverandører til produkt dokumentation og produkt udbredelse
+  - ID/leverandører til financiering og crowd funding
+- Afrundign og evaluering
+
+
