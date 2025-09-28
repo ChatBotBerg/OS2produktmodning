@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "igangværende aktiviteter"
+title: "Igangværende aktiviteter"
 author: "Anna-Lis Berg"
 date: "19-08-2025"
 status: "Udkast"
