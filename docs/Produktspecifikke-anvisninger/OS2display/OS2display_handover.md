@@ -39,10 +39,10 @@ Målet er ikke alene af etablere det bedst mulige forvaltningsregime omkring en 
 ## Temaer, faser  og aktiviteter
 
 **Overdragelses aktiviteterne er opdelt i fire temaer:**
-1. Kontrakt og ejerskab ( Overdragelse af det juridiske ansvar)
-2. Produktfællesskabets styringsmode (Overdragelse af beslutningskompetence)
-3. Daglig praksis for vedligehold og dokumentation ( overgang til OS2 best practice for vedligehold og dokumentation)
-4. Produktudvikling, modenhed og kvalitet
+1. Kontrakt og ejerskab *(Overdragelse af det juridiske ansvar)*
+2. Produktfællesskabets styringsmode *(Overdragelse af beslutningskompetence)*
+3. Daglig praksis for vedligehold og dokumentation *(overgang til OS2 best practice for vedligehold og dokumentation)*
+4. Produktudvikling, modenhed og kvalitet *(overdragelse af kildekode, IPR og produkt ansvar, samt justering af udviklingspraksis)*
 
 For hvert tema handler det om at identificere gabet mellem den faktiske tilstand og målbilleded for OS2 fællesskabet, så man sammen kan aftale hvad der som minimum skal være på plads inden overdragelsen, hvad man justerer undervejs og hvad OS2 skal håndtere selv efter overdragelse. 
 
