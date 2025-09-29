@@ -90,22 +90,22 @@ timeline
                    : Udbred kendskabet til løsningen
     section Preparation
       Q4 2025      : Etabler styrende organer i produktsamarbejded
-                   : Overdrag strategisk planlægning til produktfællesskabet
-                   : Stabiliser Kodebasen og håndter eller beskriv kendte fejl og mangler
-                   : Identificer og dokument core elementerne i kildekoden
-                   : Udarbejd en fælles plan for håndtering af de idntificerede fejl og mangler i kodebasen
-                   : Udarbejd en plan for gradvis revision af forvaltningspraksis 
-                   : Dokumenter fremtidig ansvar for vedligehold og videreudvikleing af alle elementer i kildekoden
                    : Dokumenter produktets kontrakt sturktur og udarbejd aftaler for 2026
-                   : Udpeg en acting product owner og aftal regler for release styring og kode review
+                   : Overdrag strategisk planlægning til produktfællesskabet
+                   : Identificer og dokument core elementerne i kildekoden
+                   : Stabiliser Kodebasen og dokumenter udestående fejl og mangler
+                   : Dokumenter fremtidig ansvar for alle elementer i kildekoden
+                   : Planlæg en gradvis revision af forvaltningspraksis 
+                   : Udpeg en acting product owner 
+                   : aftal regler for release styring og kode review
     section Handover
       Q1 & Q2 2025  : Overdrag det juridiske og økonomiske ansvar for Core elementerne
               : Udarbejd en strategi for vedligehold og videreudvikling
               : Dokumenter ansvar for vedligehold og videreudvikleing af alle elementer i kildekoden
               : Konsolider kildekoden i OS2's repositories
-              : Påbegynd implementering af Opensource standard praksis for sikkerhed og samarbejde
+              : Implementer Opensource best praksis og standarder
               : Revider produktets contribution guideline
-              : Revider forvaltningsorganisationen og revider persongalleri, roller og ansvar. 
+              : Revider forvaltningsorganisationen, persongalleri, roller og ansvar. 
               : Indfør separation of duity igennem hele forsyningskædem
     section Hypercare
       Q3 2025 : Evaluer resultatet af overdragelsen og håndtere identificerede fejl og mangler
