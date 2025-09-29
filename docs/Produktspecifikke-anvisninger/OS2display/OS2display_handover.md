@@ -39,9 +39,9 @@ Målet er ikke alene af etablere det bedst mulige forvaltningsregime omkring en 
 ## Temaer, faser  og aktiviteter
 
 **Overdragelses aktiviteterne er opdelt i fire temaer:**
-1. Kontrakt og ejerskab
-2. Produktfællesskabets styringsmodel
-3. Daglig praksis for vedligehold og dokumentation
+1. Kontrakt og ejerskab ( Overdragelse af det juridiske ansvar)
+2. Produktfællesskabets styringsmode (Overdragelse af beslutningskompetence)
+3. Daglig praksis for vedligehold og dokumentation ( overgang til OS2 best practice for vedligehold og dokumentation)
 4. Produktudvikling, modenhed og kvalitet
 
 For hvert tema handler det om at identificere gabet mellem den faktiske tilstand og målbilleded for OS2 fællesskabet, så man sammen kan aftale hvad der som minimum skal være på plads inden overdragelsen, hvad man justerer undervejs og hvad OS2 skal håndtere selv efter overdragelse. 
@@ -55,20 +55,11 @@ Alle aftaler bør fokumenteres i en beslutnings log, således at deres opfyldels
 flowchart LR
    Duedilligence --> Preparation --> Handover --> hypercare --> Phase_out
 
-
 ```
-|
-Fase                     |  Formål  | 
-| :---------------------- | :------ | 
-| Ejerskab  | Overdragelse af det juridiske ansvar |
-|Styringsmodel        | Overdragelse af beslutningskompetence 
-|Daglig praksis              | overgang til OS2 best practice for vedligehold og dokumentation|
-|Produktudvikling       | overdragelse af kildekode, IPR og produkt ansvar|
-| |  | 
+For hvert Tema ligger der en række fasebestemte aktiviteter, som tilsammen skal være med til at sikre samarbejde, transperans og driftsikkerhed, under hele overdragelsesfasen.
+(se herunder fr detaljer)
 
-
-
-## Milepæle og tidsperspektiv
+## Milepæle og tidsperspektiv i overdragelse
 
 Overdragelsesn strategiske milepæle følger kalender- og budget-året
 
