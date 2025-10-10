@@ -131,10 +131,10 @@ Dette ressourceforbrug vil derfor heller ikke blive berørt yderligere her.
    Eventet har ingen omkostninger til lokaler da det kan afholdes hos en af de offentlige myndigheder der deltager i arbejdsgruppen.
    Man skal vælge et Micro-hackaton hvis man hurtigt, billigt og målrettet vil afteste et allerede identificeret løsningskompleks.
 
-   ***Et Micro Hackaton koster 63.500 -770.000 kr***
+   ***Et Micro Hackaton koster 63.000 -95.000 kr***
    1. 50.000 - 75.000  kr til timerafregning til Komemrcielle aktører
    2. 12.000 - 18.000 Kr til transport og accomondation til deltagerne ( 4-6 rejsende)
-   3. 1.500 - 2.000 KR kr til møde forplejning
+   3. 1.000 - 2.000 KR kr til møde forplejning
   
    Hertil kommer følgende bidrag fra deltagerne
    - Alle arbejdsgruppens 6 medlemmer deltager free of charge
@@ -147,10 +147,10 @@ Dette ressourceforbrug vil derfor heller ikke blive berørt yderligere her.
    Det kan dog vise sig at får identificeret en leverandør sammensætninge der senere hen vil kunne deltage aktivt i MVP'en og/eller i det everntuelle arbejde der ligger i at løfte løsningen ud af sandkassen og skabe en produktionsklar version 1 af health analyzeren.
    Man skal vælge et leverandør hackaton hvis man ønsker at skabe et stærkt leverandør community omkring den kommende løsning.
 
-   ***Et Leverandør Hackaton koster 91.500 - 151.000 kr***
+   ***Et Leverandør Hackaton koster 94.000 - 148.000 kr***
    1. 75.000 - 125.000  kr til Honorar afrgning til Komemrcielle aktører ( 25.000 kr pr leverandør)
    2. 12.000 - 18.000 Kr til transport og accomondation til deltagerne ( 4-6 rejsende)
-   3. 4.500 - 8.000 KR kr til møde forplejning
+   3. 4.000 - 8.000 KR kr til møde forplejning
 
    Hertil kommer følgende bidrag fra deltagerne
    - Alle arbejdsgruppens 6 medlemmer deltager free of charge
@@ -164,11 +164,11 @@ Dette ressourceforbrug vil derfor heller ikke blive berørt yderligere her.
    Det er imidlertid også den metode der potentielt set skaber det mest innovative. Arrangementet skal liggge i en weekend og kræver både  massiv marketing, et passende venue, god forplejning og en kendt key-note speaker som trækplaster.
    Man skal vælge et Open-Source Hackaton hvis man ønsker nytænkning ag andre vinkler på hvordan man løser opgaven.
 
-   ***Et Opensource Hackaton koster xxxx***
-   1. xxx til venue
-   2. xxxx kr til facilitering og mødeledelse
-   3. xxx til forpeljning (300-600 KR kr til møde forplejning pr deltager pr dag)
-   4. xxxx til Key note speaker
+   ***Et Opensource Hackaton koster mellem 247.000 og 400.000***
+   1. 30.000 - 60.000 kr til venue
+   2. 70.000 - 100.000 kr til facilitering og mødeledelse
+   3. 50.000 - 100.000  til forpeljning (300-600 KR kr til møde forplejning pr deltager pr dag)
+   4. 70.000 - 100.000 til Key note speaker
    5. 15.000 - 25.000 til etablering og 2 måneders drift at et digital suveræn platform til kildekodeforvaltning, hackaton aktiviteter og POC afvikling 
    6. 12.000 - 18.000 Kr til transport og accomondation til deltagernarbejdsgruppene ( 4-6 rejsende)
    
@@ -197,12 +197,22 @@ Dette ressourceforbrug vil derfor heller ikke blive berørt yderligere her.
    POC'en vil ikke omfatte hverken udvælgelse af løsninger eller etablering af løsningskatalog, men udelukkene bidrage med præsnetation af det frembragte data feed løsningskatalog. 
 
    **Omkostninger og ressoruceforbrug i forbindelse med POC**
+   Omkostningsniveau i forbindelse med POC afviklingen afhænger af hvor dan og hvor længe man ønaker at have POC installationen kørende.
 
+   Billigst er det hvis POC installationen køre i den version som kom ud af Hackathonnet i mindre end 1 månede hvorefter kildekoden gives til OS2 uden forpligtelser til vedligehold af denne.
+   Dyrest er det hvis POC installationen udvikles, vedrigeholdes og driftunderstøttes i et digitalt suverænt miljø, etableret og vedligeholdt af danske leverandører indtil MVP'en er afviklet.
+   mellemvaren er at  POC installationen udvikles, vedrigeholdes og driftunderstøttes i et digitalt suverænt miljø, etableret og vedligeholdt af europæiske leverandører i op til 6 måneder.
+
+  **Omkostninger og ressoruceforbrug for sat holde POC en krøende efter Hackathonnet er mellem  som flg **
+   1. 15.000 - 25.000 til etablering og 2 måneders drift at et digital suveræn platform til kildekodeforvaltning, hackaton aktiviteter og POC afvikling
+   2. 5,000 - 10.000 pr måneds drift derudover til hosting ( managed service) på europæisk platform
+   3. 60.000  - 84.000 til tilpasninger (50 til 79 timer a 1.200 kr)
+   4. evt udgifter til git maintainer, sikkerhedsopdateringer og løbende vedligehold 
+   
 5. ***Snakathon***
    Snakathon er som udgangspunk en lukket workshop for arbejdsgruppens medlemmer hvor man balandt andet identificerer de metrikker der skal anvendes til KL's identificering af 10 genbrugelige løsninger.
 
    Mødet er en heldags workshop hvor alle deltagere er fysisk til stede.  
-   
    Workshoppens fokus er at få dokumenteret erfaringerne fro Hackathon og POC, samt at få beskrevet fremtidplanerne for det aktuelle løsningskompleks.
 
    På snakkathonet besluttes flg:
