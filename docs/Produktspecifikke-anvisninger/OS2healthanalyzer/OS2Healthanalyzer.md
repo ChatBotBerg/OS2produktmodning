@@ -114,82 +114,77 @@ så det bliver være økonomisk acceptabel at skritte løsningen efter MVP'en hv
 
 **Ressourceforbrug under afklaring, afprøvning og afgrænsning**
 
-De **5 Indledende trin for afklaring, afprøvning og afgrænsning er :**
+De **5 Indledende trin for afklaring, afprøvning og afgrænsning er  beskrevet her under**
+
+Ressourceforbruget der går forud for de 5 trin for afklaring, afprøvning og afgrænsning afhænger helt og holdent af hvordan ideen er opstået, og om der er tale om  og vil derfor ikke blive behandlet yderligere her. 
+
+Ressourceforburget der kræves for at tilpasse, produktionsmodne og udbrede produktet afhænger af hvordan afklaring, afprøvning og afgrænsning er gået og hvordan man ønsker den videre process skal være.
+Dette ressourceforbrug vil derfor heller ikke blive berørt yderligere her. 
 
 1. ***Hackaton***
-   Den indledende Hackaton er en workshop af 1-2 dages varrighed, der kræver deltagelse fra .... ( se detaljer her)
+   Det indledende Hackaton er en workshop af 1-2 dages varrighed, som har fokus på at etablere et test set-på for den foreslåede løsning, der kan tjene som Proof of Consept(POC) på arkitektur, design og workflow.
+   For detaljer om det indledende Hackaton se venligst (Indledende Hackaton)[]
+   
+   For det indledende Hackaton afhænger ressourceforburg og omkostning uløseligt sammen med hvordan man organiserere og orkrestrerer det:
 
-   Workshoppen kan afvikles på 3 forskellige måder:
-   - en lille lukket workshop hvor der indgåes timeaftale med de deltagende parter.
-   - en åben workshop workshop hvor 3-5 leverandører inviteres til at deltage i workshoppen med kvalificerede ressourcer 
-   - et Weekend Hackaton hvor det danske OpenSource miljø inviteres til at deltage i to dages intensit hackaton.
+   Et **Micro-Hackaton** hvor der indgåes timeaftale med de deltagende parter er den mest kost effektive måde at organiserer sig på.
+   Her aflønner man de kommercielle ressourcer efter Time & Material, dækker rejseomkostning of accommondation for offentlige deltage og betaler for forplejning de 2 dage.
+   Eventet har ingen omkostninger til lokaler da det kan afholdes hos en af de offentlige myndigheder der deltager i arbejdsgruppen.
+   Man skal vælge et Micro-hackaton hvis man hurtigt, billigt og målrettet vil afteste et allerede identificeret løsningskompleks.
 
-     ***Den lukkede workshop***
-     En to dages workshop på ialt 10 timer incl frokost
+   ***Et Micro Hackaton koster 63.500 -770.000 kr***
+   1. 50.000 - 75.000  kr til timerafregning til Komemrcielle aktører
+   2. 12.000 - 18.000 Kr til transport og accomondation til deltagerne ( 4-6 rejsende)
+   3. 1.500 - 2.000 KR kr til møde forplejning
+  
+   Hertil kommer følgende bidrag fra deltagerne
+   - Alle arbejdsgruppens 6 medlemmer deltager free of charge
+   - arbejdsgruppen stiller med forretningskonsulenter
+   - OS2 leverer platformen til kildekodeforvaltning, hackaton aktiviteter og POC afvikling 
+   - OS2 stiller med en Arkitekt og en facilitator på dagen
+   - KL arrangerer eventet og stiller med en facilitator på dagen
+   
+   Et **leverandør Hackaton** hvor man betaler 3-5 leverandører for at deltage i workshoppen med kvalificerede tekniske ressourcer, et mindre kosteffektiv i forhold til afviklings omkostninger.
+   Det kan dog vise sig at får identificeret en leverandør sammensætninge der senere hen vil kunne deltage aktivt i MVP'en og/eller i det everntuelle arbejde der ligger i at løfte løsningen ud af sandkassen og skabe en produktionsklar version 1 af health analyzeren.
+   Man skal vælge et leverandør hackaton hvis man ønsker at skabe et stærkt leverandør community omkring den kommende løsning.
 
-     8 Deltagere:
-     - Arbejdsgruppens medlemmer (6 personer)- som varetager flg funktioner
-        - Arkitekt
-        - Facilitator
-        - Forretningsudvilkere
-     - Kommetcielle aktører ( 2 personer)
-        - 1 platforms engineer
-        - 1 data Pipeline-udvikler
+   ***Et Leverandør Hackaton koster 91.500 - 151.000 kr***
+   1. 75.000 - 125.000  kr til Honorar afrgning til Komemrcielle aktører ( 25.000 kr pr leverandør)
+   2. 12.000 - 18.000 Kr til transport og accomondation til deltagerne ( 4-6 rejsende)
+   3. 4.500 - 8.000 KR kr til møde forplejning
+
+   Hertil kommer følgende bidrag fra deltagerne
+   - Alle arbejdsgruppens 6 medlemmer deltager free of charge
+   - arbejdsgruppen stiller med forretningskonsulenter
+   - OS2 leverer platformen til kildekodeforvaltning, hackaton aktiviteter og POC afvikling 
+   - OS2 stiller med en Arkitekt og en facilitator på dagen
+   - KL arrangerer eventet og stiller med en facilitator på dage
+   - Leverandørerne stiller med flere deltagere end der kan dækkes af honoraret
+   
+
+   Et **et Open-Soutce Hackaton** hvor man inviterer det danske Open-Source miljø ind til en to dages intensit hackaton, er langt den mest omkostningstunge og ressourcekrævende at gennemfore.
+   Det er imidlertid også den metode der potentielt set skaber det mest innovative. Arrangementet skal liggge i en weekend og kræver både  massiv marketing, et passende venue, god forplejning og en kendt key-note speaker som trækplaster.
+   Man skal vælge et Open-Source Hackaton hvis man ønsker nytænkning ag andre vinkler på hvordan man løser opgaven.
+
+   ***Et Opensource Hackaton koster xxxx***
+   1. xxx til venue
+   2. xxxx kr til facilitering og mødeledelse
+   3. xxx til forpeljning (300-600 KR kr til møde forplejning pr deltager pr dag)
+   4. xxxx til Key note speaker
+   5. xxxx til etablering at et digital suveræn platform til kildekodeforvaltning, hackaton aktiviteter og POC afvikling 
+   6. 12.000 - 18.000 Kr til transport og accomondation til deltagernarbejdsgruppene ( 4-6 rejsende)
+  
+   Det vil være tilrå
+ 
+   Hertil kommer følgende bidrag fra deltagerne
+   - Alle arbejdsgruppens 6 medlemmer deltager free of charge
+   - arbejdsgruppen stiller med forretningskonsulenter
+   - OS2 stiller med en Arkitekt og en facilitator på dagen
+   - KL arrangerer eventet og stiller med en facilitator på dage
+   - Leverandører og udviklere deltager free of charge
+  
+ 
      
-     Udgiftsposter:
-     -  25 timer pr deltager - (10 til workshop & 15 til forberedelse og efterbehandling
-         - 0 kr for arbejdsgruppens medlemmer
-         - 50.000 - 75.000 for Kommercielle leverandører 
-     -  Transport, overnatning og 1 gange aftensmad til 4-6 personer
-         -  12.000 - 18.000 KR
-     -  Frokost forplejning til gruppen
-        -   1.500 - 2.000 KR
-     -   Licens, hardware og hosting
-         -   0 kr (bring youe own device + soinsorat fra OS2)
-
-     ***Den åbne workshop***
-       15-25 Deltagere:
-     - Arbejdsgruppens medlemmer (6 personer)- som varetager flg funktioner
-        - Arkitekt
-        - Facilitator
-        - Forretningsudvilkere
-     - Kommetcielle aktører (3-5 leverandører, forventeligt 2 deltagere pr leverandør)
-        - 1 platforms engineer
-        - 1 data Pipeline-udvikler
-     Udgiftsposter:
-      Deltagelse i 2 hele dage
-         - 0 kr for arbejdsgruppens medlemmer
-         - 75.000 - 125.000 for Kommercielle leverandører  (Fast honorar pr leverandør svarende til 25 timer a 1000 kr)
-     -  Transport, overnatning og 1 gange aftensmad til Arbejdsgruppens medlemmer
-         -  12.000 - 18.000 KR
-     -  Frokost forplejning til gruppen
-        -   4.500 - 8.000 KR
-     -   Licens, hardware og hosting
-         -   0 kr (bring youe own device + soinsorat fra OS2)
-
-     ***Weekend Hackaton***
-     Intet honorar men tilgengæld meget facilitering og forplejning, samt et indlæg fra et stort navn.
-     Deltagere
-     - Arbejdsgruppens 6 medlemmer
-     - Facilitator og arrangeør af mødet
-     - Opdragsholder ( Honorar)
-     - 25 - ? Deltagere
-     
-        Udgiftsposter:
-      Deltagelse i 1 heldags workshop
-         - 0 kr for arbejdsgruppens medlemmer
-         - 0 kr for workshop deltagerne
-         - X for Facilitering og leje af lokale
-         - X for foredragsholder
-     -  Transport, overnatning og 1 gange aftensmad til Arbejdsgruppens medlemmer
-         -  12.000 - 18.000 KR
-     -  Lokaler Frokost forplejning til gruppen
-        -  Afhænger af antal deltagere ca 600 -700 pr deltager
-        -  Lokale leje 
-     -   Licens, hardware og hosting
-         -   0 kr (bring youe own device + soinsorat fra OS2)
-
-
 3. ***POC***  
 
 4. ***Snakaton*** 
@@ -202,6 +197,5 @@ De **5 Indledende trin for afklaring, afprøvning og afgrænsning er :**
 
 
 **NB!**
-- Ressourceforbruget der går forud for de 5 trin for afklaring, afprøvning og afgrænsning afhænger helt og holdent af hvordan ideen er opstået, og om der er tale om  og vil derfor ikke blive behandlet yderligere her. 
-- Ressourceforburget der kræves for at tilpasse, produktionsmodne og udbrede produktet afhænger af hvordan afklaring, afprøvning og afgrænsning er gået og hvordan man ønsker den videre process skal være. Dette ressourceforbrug vil derfor heller ikke blive berørt yderligere her. 
+
 
