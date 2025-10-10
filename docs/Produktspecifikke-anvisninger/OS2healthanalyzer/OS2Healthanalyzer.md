@@ -203,10 +203,10 @@ Dette ressourceforbrug vil derfor heller ikke blive berørt yderligere her.
    Dyrest er det hvis POC installationen udvikles, vedrigeholdes og driftunderstøttes i et digitalt suverænt miljø, etableret og vedligeholdt af danske leverandører indtil MVP'en er afviklet.
    mellemvaren er at  POC installationen udvikles, vedrigeholdes og driftunderstøttes i et digitalt suverænt miljø, etableret og vedligeholdt af europæiske leverandører i op til 6 måneder.
 
-  **Omkostninger og ressoruceforbrug for sat holde POC en krøende efter Hackathonnet er mellem  som flg **
+   **Omkostninger og ressoruceforbrug for sat holde POC en krøende efter Hackathonnet er mellem  som flg**
    1. 15.000 - 25.000 til etablering og 2 måneders drift at et digital suveræn platform til kildekodeforvaltning, hackaton aktiviteter og POC afvikling
    2. 5,000 - 10.000 pr måneds drift derudover til hosting ( managed service) på europæisk platform
-   3. 60.000  - 84.000 til tilpasninger (50 til 79 timer a 1.200 kr)
+   3. evt. 60.000  - 84.000 til tilpasninger (50 til 79 timer a 1.200 kr)
    4. evt udgifter til git maintainer, sikkerhedsopdateringer og løbende vedligehold 
    
 5. ***Snakathon***
