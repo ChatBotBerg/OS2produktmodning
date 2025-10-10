@@ -62,7 +62,7 @@ Udvikling, afklaring og afgrænsning, diskuteres, dokumenteres og effektueres i 
 
 De **5 Indledende trin for afklaring, afprøvning og afgrænsning er :**
 1. ***Hackaton*** : en udviklings workshhop hvor man får skabt fungerende arkiktektur, workflow og grænseflade for at kunne hente og præsentere målinger (data)
-2. ***POC*** : resultatet af Hackaton spundet op i et test miljø der kan danne grundlag for den videre idegenerering
+2. ***POC*** : resultatet af Hackaton'net spundet op i et midlertidigt miljø der kan danne grundlag for den videre ide-generering
 3. ***Snakaton***: en afklarings workshop hvor man får defineret og raffineret de metrikker der skal måles på, og de rapporter og dashboards der skal stilles til rådighed under MVP'en
 4. ***MVP***: et afprøvningsprojekt hvor sætter løsningen i drift i et beskyttet miljø  for at afprøve funktionalitet og anvendelighed i "det virkelige liv"  
 5. ***Wrappathon***: en dokumentations workshop hvor man beskriver de erfaringer der er med 
@@ -112,7 +112,7 @@ ved at afprøve dem i et test set op (POC) og implementere dem i et minimums set
 Ressourceforbrugt til afprøvning af en given løsning bør derfor som udgangspunkt være under 1/10 af hvad det vil koste at udvikle en produktionsklar veersion af løsningen, 
 så det bliver være økonomisk acceptabel at skritte løsningen efter MVP'en hvis det viser sig at der er en 
 
-**Ressourceforbrug under afklaring, afprøvning og afgrænsning**
+**Omkostninger og ressoruceforbrug under afklaring, afprøvning og afgrænsning**
 
 De **5 Indledende trin for afklaring, afprøvning og afgrænsning er  beskrevet her under**
 
@@ -123,8 +123,7 @@ Dette ressourceforbrug vil derfor heller ikke blive berørt yderligere her.
 
 1. ***Hackaton***
    Det indledende Hackaton er en workshop af 1-2 dages varrighed, som har fokus på at etablere et test set-på for den foreslåede løsning, der kan tjene som Proof of Consept(POC) på arkitektur, design og workflow.
-   For detaljer om det indledende Hackaton se venligst (Indledende Hackaton)[]
-   
+     
    For det indledende Hackaton afhænger ressourceforburg og omkostning uløseligt sammen med hvordan man organiserere og orkrestrerer det:
 
    Et **Micro-Hackaton** hvor der indgåes timeaftale med de deltagende parter er den mest kost effektive måde at organiserer sig på.
@@ -160,7 +159,6 @@ Dette ressourceforbrug vil derfor heller ikke blive berørt yderligere her.
    - OS2 stiller med en Arkitekt og en facilitator på dagen
    - KL arrangerer eventet og stiller med en facilitator på dage
    - Leverandørerne stiller med flere deltagere end der kan dækkes af honoraret
-   
 
    Et **et Open-Soutce Hackaton** hvor man inviterer det danske Open-Source miljø ind til en to dages intensit hackaton, er langt den mest omkostningstunge og ressourcekrævende at gennemfore.
    Det er imidlertid også den metode der potentielt set skaber det mest innovative. Arrangementet skal liggge i en weekend og kræver både  massiv marketing, et passende venue, god forplejning og en kendt key-note speaker som trækplaster.
@@ -171,10 +169,12 @@ Dette ressourceforbrug vil derfor heller ikke blive berørt yderligere her.
    2. xxxx kr til facilitering og mødeledelse
    3. xxx til forpeljning (300-600 KR kr til møde forplejning pr deltager pr dag)
    4. xxxx til Key note speaker
-   5. xxxx til etablering at et digital suveræn platform til kildekodeforvaltning, hackaton aktiviteter og POC afvikling 
+   5. 15.000 - 25.000 til etablering og 2 måneders drift at et digital suveræn platform til kildekodeforvaltning, hackaton aktiviteter og POC afvikling 
    6. 12.000 - 18.000 Kr til transport og accomondation til deltagernarbejdsgruppene ( 4-6 rejsende)
-  
-   Det vil være tilrå
+   
+   NB! platforms omkostningen er vurderet ud fra anvendelse af en europæisk løsning leveret Stackhero [https://www.stackhero.io/en-US/services/GitLab/pricing](https://www.stackhero.io/en-US/services/GitLab/pricing)
+   Så fremt man ønsekr den leveret af en dansk leverandør er det  erfaringen at prisen bliver langt højer.
+   
  
    Hertil kommer følgende bidrag fra deltagerne
    - Alle arbejdsgruppens 6 medlemmer deltager free of charge
@@ -183,13 +183,42 @@ Dette ressourceforbrug vil derfor heller ikke blive berørt yderligere her.
    - KL arrangerer eventet og stiller med en facilitator på dage
    - Leverandører og udviklere deltager free of charge
   
+
+3. ***POC***
+   POC'ens tekniske grundlag etableres under det indledende Hackaton i et midlertidigt driftslignende set op.
+   
+   Under POC en vil arbejdsgruppen løbende eveluere løsningens evne til at understøtte KL's akutte behov for rapportering, samt evaluere fremtidsperspektivet med løsningen.
+   POC'en har til formål at skabe erfaringsgrundlaget bag arbejdsgruppens videre diskussion af metrikker og data output, samt som arbejdsværktøj under den efterfølgende snakkathon.
+
+   Såfremt man ønsker dynamik og fremdrift i POC'en  er der behov for at have tilknyttet et teknisk kerne team til at forvalte og tilpasse kildekode og drift instans.
+
+   Så fremt arbejdsgruppen finder det formålstjenstlig kan POC'en " holdes i luften indtil MVP projektet er afsluttet. Med det begrænsede formal at understøtte en statisk/frekventiel rapportering af KL's rapport om 10 genbrugelige løsninger,
+
+   POC'en vil ikke omfatte hverken udvælgelse af løsninger eller etablering af løsningskatalog, men udelukkene bidrage med præsnetation af det frembragte data feed løsningskatalog. 
+
+   **Omkostninger og ressoruceforbrug i forbindelse med POC**
+
+5. ***Snakathon***
+   Snakathon er som udgangspunk en lukket workshop for arbejdsgruppens medlemmer hvor man balandt andet identificerer de metrikker der skal anvendes til KL's identificering af 10 genbrugelige løsninger.
+
+   Mødet er en heldags workshop hvor alle deltagere er fysisk til stede.  
+   
+   Workshoppens fokus er at få dokumenteret erfaringerne fro Hackathon og POC, samt at få beskrevet fremtidplanerne for det aktuelle løsningskompleks.
+
+   På snakkathonet besluttes flg:
+   - Om KL kan anvende POC resultatet i rapporten om 10 genbrugelige løsninger
+   - hvordan og hvorlænge POC implementeringern skal holdes i luften
+   - om man skal gå videre med en MVP
+   - Hvilke metrikker der kunne inkluderes i en MVP
+   - hvilke anbefalinger man skal give DIGST i forhold til at anvende den kommende løsning som datafeeded for registrering af danske Open-Source løsninger i EU's katalog.
+   - hvad næste trin i processen er og hvem der har ansvaret
  
-     
-3. ***POC***  
+   
+   **Omkostninger og ressoruceforbrug for snakkaton er 13.500 til 20.000 kr**
+   1. 12.000 - 18.000 Kr til transport og accomondation til deltagerne ( 4-6 rejsende)
+   2. 1.500 - 2.000 KR kr til møde forplejning
 
-4. ***Snakaton*** 
-
-5. ***MVP***
+7. ***MVP***
 
  https://www.stackhero.io/en-US/services/GitLab/pricing
 
