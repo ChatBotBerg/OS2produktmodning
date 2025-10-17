@@ -14,7 +14,7 @@ has_children: true
 
 # OS2forms aktiviteter
 
-## kort opsummering på situationen omkring OD2Forms
+## kort opsummering på situationen omkring OS2forms
 
 - OS2forms står med et stort potintiale for øget for vækst og udbredelse. Et potentiale der indfries bedst ved at sikre proaktiv vedligehold og målrettett udvikling af løsnngen-
 - Vedligehold af OS2forms er  koordineret og betalt af produktfællesskabet, prioriteret af koordinationsgruppen, leveret af Belcom og kvalitetssikret af ITK- development (Aarhus).
