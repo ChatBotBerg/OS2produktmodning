@@ -1,13 +1,3 @@
----
-layout: default
-title: "Releaseplan 2025"
-author: "Anna-Lis Berg"
-date: "19-08-2025"
-status: "Udkast"
-parent: "OS2forms"
-nav_order: 1
-has_children: false
----
 
 **Milepæle:**
 - 15.09.2025: Releasen er klart defineret, dokumenteret og estimeret
