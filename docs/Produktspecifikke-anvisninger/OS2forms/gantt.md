@@ -1,3 +1,13 @@
+---
+layout: default
+title: "Releaseplan 2025"
+author: "Anna-Lis Berg"
+date: "19-10-2025"
+status: "final"
+parent: "OS2forms"
+nav_order: 2
+has_children: false
+---
 
 ```mermaid
 gantt
