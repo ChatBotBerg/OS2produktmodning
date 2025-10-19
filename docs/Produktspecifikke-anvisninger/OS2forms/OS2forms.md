@@ -29,8 +29,8 @@ Der er blevet identificeret en række strategiske og taktiske indsatsområder fo
 De strategiske og taktiske indsatsområder kan opdetles i 4 hovedspor
 1. Produktstrategi og udbredelse
 2. Produktudvikling og vedligehold
-3. Produktfællesskabets engagement og inolvering
-4. Produktadministration, koordination og kommunikation
+3. Produktfællesskab, engagement og inolvering
+4. Produktkoordiantion, administration og kommunikation
 
 I 2025 har der til dato været fokus på følgende aktiviteter :
 1. Produktstrategi og udbredelse
