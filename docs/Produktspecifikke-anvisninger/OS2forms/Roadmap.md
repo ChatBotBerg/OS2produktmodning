@@ -29,22 +29,30 @@ gantt
     title       OS2Forms Roadmap for strategiske indsatsområder 2025/2026
     excludes    weekends
     tickInterval 1month
-    Initial vert : vert, v1, 2025-03-01,
-    Final vert : vert, v1, 2025-03-01,
+    Start: vert, v1, 2025-03-01,
+    Årsskifte : vert, v3, 2026-01-01,
+    Slut: vert, v3, 2026-06-01,
     %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week ("sunday") or "weekends", but not the word "weekdays".)
 
     section  Produktstrategi
-    xxxxxr     :2025-08-11, 2025-08-27
+    Etablering af samarbejde med KL        :2025-06-01, 2025-12-19
+
 
     section  Produktudvikling
-    forbedret releasestyring    ::des1, 2025-06-01, 2025-11-01
+    Hands-on support fra sekretariatet     :2025-03-01, 2026-01-01
+    Optimeret releasestyring               :2025-06-01, 2025-11-01
+    On-demand fejlterning                  :2025-10-01, 20256-01-20
+    automatiseret kvalitets check          :2025-10-01, 20256-01-20
+
 
     section  Produktfællesskab
-    xxxxxr     :2025-08-11, 2025-08-27
+    Hands-on support fra sekretariatet               :2025-10-20, 2026-04-01
+    Overdragelse og oplæring fra sekretariatet       :2026-02-01, 2026-06-01
+    Os2forms financieret communitymanagement         :2026-01-01, 2026-06-30
 
-    section  Produktkoordination 
-    Hands-on support fra sekretariatet     :2025-01-06, 2025-12-01
-
-
+    section  Produktkoordination
+    Produkt koordinatore i sekretariatet             :2025-01-06, 2025-12-15
+    Overdragelse og oplæring fra sekretariatet       :2025-12-01, 2026-04-01
+    Os2forms financieret produktkoordination         :2026-01-01, 2026-06-30
 
 ```
