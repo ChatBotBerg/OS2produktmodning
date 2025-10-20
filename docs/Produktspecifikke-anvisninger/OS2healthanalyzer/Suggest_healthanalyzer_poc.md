@@ -64,7 +64,7 @@ Når POC'en er vel overstået og resultatet er efterbehandlet står KL derfor st
 Derudover står arbejdsgruppen overfor udfordringen med at skaffe opbakning omkring og midler til næste fase, MVP en hvor man implementerer en minimums løsning i et skalerbart og fremtidssikret driftsmiljø (MVP) og etablere en midlertidig forvaltningsorganisation, for derigennem at vurdere de juridiske, organisatoriske og økonomiske aspekter af en fremtidig driftssituation. MVP'en har således tol formål at vurdere løsningens realiserbarhed som reelt produkt i forhold til omkostningsniveau, drift og forvaltning, og vilkan først kunne estimeres i omfang og scope efter endt POC. 
 
 ## Prisen for en POC
-Den samlede pris for afvikling af et PO forløb som både skaber engagement , involvering og håndgribeligt resultat  ligger på mellem 150.000 og 200.000 kr alt efter omfang og afregningsmodel for de deltagende leverandører.
+Den samlede pris for afvikling af et det anbefalede OOC forløb ligger på mellem **150.000 og 200.000 kr*** alt efter omfang og afregningsmodel for de deltagende leverandører ( se detaljer herunder).
 
 **Den mest kosteffektive model** ville være et ***Micro Hackaton*** hvor man hyrer 2 tekniske ressourcer til at deltage sammen med arbejdsgruppen i e 2 dages workshop i KL's lokaler, afvikler POC'en i OS2's github miljø og afholder et virhuelt Snakathon som afslutning.
 Et sådan arrangement vil koste omkring 80.000 til 100.000. Det vil kunne afvikles hurtigt, men alt kildekode og udviklet funktionalitet vil skulle flyttes over i et digitalt suverænt miljø inden en eventuel MVP vil kunne igangsættes. 
@@ -74,15 +74,16 @@ Et sådan arrangement vil koste omkring 400.000- 500.000. Det vil kræve meget f
 
 **Den anbefalede Model** er bygget om opmring et ***leverandør hackaton** hvor man beder 3-5 leverandører om at stille med kvalificerede tekniske ressourcer til en 2 dages workshop, etablerer en digital suveræn platform til kildekode og POC afvikling og begrænser den afsluttende snakatonnen til kun at omfatte arbejdsgruppen bag rapporten. 
 
-Dette arrangement vil realistisk set kunne afvikles for mellem 150.000 og 200.000 kr alt efter hvormange leverandører man inviterret og hvilken afregningsmodel man anvender ( Honorar eller timebetaling).
+Dette arrangement vil realistisk set kunne afvikles for mellem 150.000 og 200.000 kr alt efter hvormange leverandører man inviteret og hvilken hosting leverandør man entrerer med. 
 
 ***Hackaton:***
    1. 90.000 - 150.000  kr til Honorar afrgning til Komemrcielle aktører ( ved honorar afregning på 30.000 kr pr leverandør)
    2. 12.000 - 18.000 Kr til transport og accomondation til i forbindelse med POC aftestning ( 4-6 rejsende)
    3. 4.000 - 8.000 KR kr til møde forplejning
+      
 ***POC***
-   4. 15.000 - 25.000 til etablering og 2 måneders drift at et digital suveræn platform til kildekodeforvaltning, hackaton aktiviteter og POC afvikling
-   5. 15.000  til tilpasninger under POC
+   5. 15.000 - 25.000 til etablering og 2 måneders drift at et digital suveræn platform til kildekodeforvaltning, hackaton aktiviteter og POC afvikling
+   6. 15.000  til tilpasninger under POC
 
 ***Snakathon***
    5. 12.000 - 18.000 Kr til transport og accomondation til deltagerne ( 4-6 rejsende)
