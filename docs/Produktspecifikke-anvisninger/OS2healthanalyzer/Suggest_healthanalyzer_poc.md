@@ -46,6 +46,7 @@ Der er 3 aktiviteter i den forelsåede POC, som til sammen har til formål at sk
 1. ***Hackaton*** : en udviklings workshhop hvor man får skabt fungerende arkiktektur, workflow og grænseflade for at kunne hente og præsentere målinger (data)
 2. ***POC*** : resultatet af Hackaton'net spundet op i et midlertidigt miljø der kan danne grundlag for den videre ide-generering
 3. ***Snakaton***: en afklarings workshop hvor man får defineret og raffineret de metrikker der skal måles på, og de rapporter og dashboards der skal stilles til rådighed under MVP'en
+
 ```mermaid
 
 flowchart LR
