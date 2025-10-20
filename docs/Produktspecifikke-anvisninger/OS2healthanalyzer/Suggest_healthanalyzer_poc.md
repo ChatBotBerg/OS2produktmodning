@@ -91,8 +91,6 @@ Dette arrangement vil realistisk set kunne afvikles for mellem 150.000 og 200.00
   ***NB!*** platforms omkostningen er vurderet ud fra anvendelse af en europæisk løsning leveret Stackhero [https://www.stackhero.io/en-US/services/GitLab/pricing](https://www.stackhero.io/en-US/services/GitLab/pricing)
    Så fremt man ønsker den leveret af en dansk leverandør er det  erfaringen at prisen bliver langt højer.
 
-## efterbehdnling af O
-
 ## Konklusion
 En POC for en Open-source Health Analyzer er ikke alene vigtig for at opnå indsigt i open-source løsningers anvendelighed og modenhed, men det understøtter også en data-drevet beslutningsproces, som er essentiel for optimering og forbedring af open-source anvendelse i kommunal sammenhæng. Ved at følge en struktureret, iterativ metode kan man sikre, at løsningen er robust, skalerbar og økonomisk bæredygtig.
 
