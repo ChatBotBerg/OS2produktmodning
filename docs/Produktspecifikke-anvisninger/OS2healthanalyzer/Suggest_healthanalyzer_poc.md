@@ -46,12 +46,6 @@ Der er 3 aktiviteter i den forelsåede POC, som til sammen har til formål at sk
 1. ***Hackaton*** : en udviklings workshhop hvor man får skabt fungerende arkiktektur, workflow og grænseflade for at kunne hente og præsentere målinger (data)
 2. ***POC*** : resultatet af Hackaton'net spundet op i et midlertidigt miljø der kan danne grundlag for den videre ide-generering
 3. ***Snakaton***: en afklarings workshop hvor man får defineret og raffineret de metrikker der skal måles på, og de rapporter og dashboards der skal stilles til rådighed under MVP'en
-```mermaid
-
-flowchart LR
-   Hackathon --> POC --> Snakathon 
-
-```
 
 ***Når disse tre aktiviteter er gennemført har man flg:***
 1. Data feed til KL rapporten
@@ -66,8 +60,8 @@ POC'en er en slags laboratorietest som foregår i et afgrænset miljø (en sandk
 Løsningen er hverken driftsklar eller skalerbar, der opereres med et afgrænset antal metrikker og der er hverken fokus på brugervenlighed eller fleksibel adgangsstyring.
 
 Når POC'en er vel overstået og resultatet er efterbehandlet står KL derfor stadigt overfor arbejdet med manuelt at skabe raporten ud fra det tilvejebrgate datagrundlag, samt med at planlægge hvordan man eventuelt kommer videre i arbejdet med at etablere en blivende version af Helathanalyzeren.
-Derudover står arbejdsgruppen overfor udfordringen med at skaffe opbakning omkring og midler til næste fase.
 
+Derudover står arbejdsgruppen overfor udfordringen med at skaffe opbakning omkring og midler til næste fase, MVP en hvor man implementerer en minimums løsning i et skalerbart og fremtidssikret driftsmiljø (MVP) og etablere en midlertidig forvaltningsorganisation, for derigennem at vurdere de juridiske, organisatoriske og økonomiske aspekter af en fremtidig driftssituation. MVP'en har således tol formål at vurdere løsningens realiserbarhed som reelt produkt i forhold til omkostningsniveau, drift og forvaltning, og vilkan først kunne estimeres i omfang og scope efter endt POC. 
 
 ## Prisen for en PO
 Den samlede pris for afvikling af et PO forløb som både skaber engagement , involvering og håndgribeligt resultat  ligger på mellem 150.000 og 200.000 kr alt efter omfang og afregningsmodel for de deltagende leverandører.
@@ -95,11 +89,10 @@ Dette arrangement vil realistisk set kunne afvikles for mellem 150.000 og 200.00
    6. 2.000 - 3.000 KR kr til møde forplejning
    
   ***NB!*** platforms omkostningen er vurderet ud fra anvendelse af en europæisk løsning leveret Stackhero [https://www.stackhero.io/en-US/services/GitLab/pricing](https://www.stackhero.io/en-US/services/GitLab/pricing)
-   Så fremt man ønsekr den leveret af en dansk leverandør er det  erfaringen at prisen bliver langt højer.
-
-## efterbehdnling af O
+   Så fremt man ønsker den leveret af en dansk leverandør er det  erfaringen at prisen bliver langt højer.
 
 ## Konklusion
 En POC for en Open-source Health Analyzer er ikke alene vigtig for at opnå indsigt i open-source løsningers anvendelighed og modenhed, men det understøtter også en data-drevet beslutningsproces, som er essentiel for optimering og forbedring af open-source anvendelse i kommunal sammenhæng. Ved at følge en struktureret, iterativ metode kan man sikre, at løsningen er robust, skalerbar og økonomisk bæredygtig.
 
 Da POC'en er en slags laboratorie test vil det kræve an man implementerer en minimums løsning i et skalerbart og fremtidssikret driftsmiljø (MVP) og etablere en midlertidig forvaltningsorganisation, for derigennem at vurdere de juridiske, organisatoriske og økonomiske aspekter af en fremtidig driftssituation.
+
