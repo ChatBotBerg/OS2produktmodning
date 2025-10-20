@@ -63,7 +63,7 @@ Når POC'en er vel overstået og resultatet er efterbehandlet står KL derfor st
 
 Derudover står arbejdsgruppen overfor udfordringen med at skaffe opbakning omkring og midler til næste fase, MVP en hvor man implementerer en minimums løsning i et skalerbart og fremtidssikret driftsmiljø (MVP) og etablere en midlertidig forvaltningsorganisation, for derigennem at vurdere de juridiske, organisatoriske og økonomiske aspekter af en fremtidig driftssituation. MVP'en har således tol formål at vurdere løsningens realiserbarhed som reelt produkt i forhold til omkostningsniveau, drift og forvaltning, og vilkan først kunne estimeres i omfang og scope efter endt POC. 
 
-## Prisen for en PO
+## Prisen for en POC
 Den samlede pris for afvikling af et PO forløb som både skaber engagement , involvering og håndgribeligt resultat  ligger på mellem 150.000 og 200.000 kr alt efter omfang og afregningsmodel for de deltagende leverandører.
 
 **Den mest kosteffektive model** ville være et ***Micro Hackaton*** hvor man hyrer 2 tekniske ressourcer til at deltage sammen med arbejdsgruppen i e 2 dages workshop i KL's lokaler, afvikler POC'en i OS2's github miljø og afholder et virhuelt Snakathon som afslutning.
