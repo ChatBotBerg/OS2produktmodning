@@ -8,7 +8,6 @@ parent: "OS2forms"
 nav_order: 1
 has_children: false
 ---
----
 
 📆 _sidst opdateret: {{ site.time | date: '%B %d, %Y' }}_
 
@@ -42,6 +41,8 @@ gantt
     section  Produktudvikling
     Handson support fra sekretariatet                           :2025-11-01, 2026-03-01
     Overdragelse til Produkt koordinator og Product owner       :2026-02-01, 2026-04-01
+
+```
 
 Sekretariatssupporten til OS2forms kan deles op i fire hovedspor
 1. **Sekretariasfunktion**
