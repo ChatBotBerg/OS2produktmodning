@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Roadmap og timeline "
+title: "Roadmap og timeline for sekretariatssupport"
 author: "Anna-Lis Berg"
 date: "19-08-2025"
 status: "Udkast" 
@@ -12,21 +12,12 @@ has_children: false
 
 📆 _sidst opdateret: {{ site.time | date: '%B %d, %Y' }}_
 
-# OS2forms: Roadmap og Timeliene for de strategisk indsatsområder
-
-Nedenstående diagram er en anbefaling til hvilke aktiviteter der igangsættes inden forhver af de fire strategiske hovedspor i løbet af 2025 & 2026. 
-
-**De 4 Hovedspor er flg:
-1. **Produktstrategi** og udbredelse
-2. **Produktudvikling** og vedligehold
-3. **Produktfællesskab**,  engagement og inolvering
-4. **Produkt administration**, mødeplanlægning og kommunikation
-
+# OS2forms: Roadmap og Timeliene for sekretariatssupport
 
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
-    title       OS2Forms Roadmap for strategiske indsatsområder 2025/2026
+    title       OS2Forms Roadmap for sekretariatssupport 2025/2026
     excludes    weekends
     tickInterval 1month
     Start: vert, v1, 2025-03-01,
@@ -34,26 +25,47 @@ gantt
     Slut: vert, v3, 2026-06-01,
     %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week ("sunday") or "weekends", but not the word "weekdays".)
 
-    section  Produktstrategi
-    Etablering af samarbejde med KL             :2025-06-01, 2025-12-19
-    Identificering og finaiciering af KL specifik udvikling: 2025-11-01, 2026-04-01
-    KL specifikke udviklingsaktiviteter         :2026-01-15, 2026-05-30
-    Os2forms financieret produktkoordinator  :2026-01-01, 2026-06-30
+    section  Sekretariasfunktion
+    Handson support betralt af fællesskabet        :2025-00-01, 2026-01-01
+    Oplærnig og videnoverdragelse                  :2026-01-05, 2026-03-01
+    Os2forms financieret Produktkoordinator        :2026-01-01, 2026-06-30
+
+    section  Produktforvaltning
+    Hands-on support fra sekretariatet (PO)        :2025-03-01, 2026-03-01
+    Oplærnig og videnoverdragelse                  :2026-01-15, 2026-03-30
+    Os2forms financieret Product Owner (PO)        :2026-02-01, 2026-06-30
+
+    section  Community building
+    Hands-on support fra sekretariatet               :2025-10-20, 2026-04-01
+    Overdragelse af årshjul til produktkoordinatoren :2026-02-01, 2026-03-01
 
     section  Produktudvikling
-    Hands-on support fra sekretariatet (PO)     :2025-03-01, 2026-01-01
-    Optimeret releasestyring                    :2025-06-01, 2025-11-01
-    On-demand fejlterning                       :2025-10-01, 2026-01-20
-    Automatiseret kvalitets check               :2025-10-01, 2026-04-01
-    Os2forms financieret Product Owner (PO)     :2026-01-01, 2026-06-30
+    Handson support fra sekretariatet                           :2025-11-01, 2026-03-01
+    Overdragelse til Produkt koordinator og Product owner       :2026-02-01, 2026-04-01
 
-    section  Produktfællesskab
-    Hands-on support fra sekretariatet              :2025-10-20, 2026-04-01
-    Overdragelse og oplæring fra sekretariatet       :2026-02-01, 2026-06-01
-    Os2forms financieret produktkoordinator          :2026-01-01, 2026-06-30
+Sekretariatssupporten til OS2forms kan deles op i fire hovedspor
+1. **Sekretariasfunktion**
+   - Administration og økonomiopfølgning.
+   - Mødeplanlægning og referat skrivning
+   - onboarding af nye medlemmer 
+   - opdatering af hjemmeside
+   - Publisering af referater
+2. **Produktforvaltning** og leverandørsamarbejde
+    - Releasemanagement & Bugfix håndtering ( optimering & opstramning incl 12 måbneders roadmap)
+    - Transperans og sporbarhed i leverancen
+    - Praksis for tværgående leverandørsamarbejde (
+    - Forbedret Leverandørsamarbejde'
+    - Etablering af beslutningslog
+    - escalleringspunkt for manglende leverandørsamarbejde
+    - årshjul og praksis for leverandøropfølgning
+3. **Community building**
+    - Etablering af årshjul for produktfællesskabet
+     - årshjul og praksis for Communitymøder
+    - årshjul og praksis for Brugerklub møder ( anvendere)
+    -  - årshjul og praksis for teknisk erfagruppemøder (kommunale driftsafdelinger og drifts leverandører)
+4. **Produktudvikling** og crowdfunding
+    - etablering af crowfundings model
+    - 12 mdr roadmap for feature udvikling
+    - Praksis for overtagelse af Contribution
 
-    section  Produktadministration
-    Produkt koordinatore i sekretariatet             :2025-01-06, 2025-12-15
-    Overdragelse og oplæring fra sekretariatet       :2025-12-01, 2026-04-01
-    Os2forms financieret administrativ support       :2026-01-01, 2026-06-30
-```
+
