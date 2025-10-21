@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Roadmap og timeline for sekretariatssupport"
+title: "Roadmap og timeline for sekretariatssupport til OS2forms"
 author: "Anna-Lis Berg"
 date: "19-08-2025"
 status: "Udkast" 
@@ -11,7 +11,7 @@ has_children: false
 
 📆 _sidst opdateret: {{ site.time | date: '%B %d, %Y' }}_
 
-# OS2forms: Roadmap og Timeliene for sekretariatssupport
+# OS2forms: Roadmap og Timeline for sekretariats-support
 
 ```mermaid
 gantt
