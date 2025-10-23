@@ -53,15 +53,10 @@ Alle aftaler bør fokumenteres i en beslutnings log, således at deres opfyldels
 ```mermaid
 
 flowchart LR
-   Duedilligence --> Preparation --> Handover --> hypercare --> Phase_out
+   Afklaring --> Forberedelse --> Overdragelse--> Erablering --> udfasning
 
 ```
-```mermaid
 
-flowchart LR
-   Afklaring --> Forberedelse --> Overdragelse og Implementering --> xxxxxxxx --> udfasning
-
-```
 For hvert Tema ligger der en række fasebestemte aktiviteter, som tilsammen skal være med til at sikre samarbejde, transperans og driftsikkerhed, under hele overdragelsesfasen.
 (se herunder fr detaljer)
 
@@ -85,7 +80,7 @@ Overdragelsesn strategiske milepæle følger kalender- og budget-året
 %% Mermaid documentation for timeline syntax: https://mermaid.js.org/syntax/timeline.html
 %%{init: { 'theme': 'forest', 'timeline': {'disableMulticolor': true}}}%%
 timeline
-    section Due dilligence
+    section Afklaring
       Q2 & Q3 2025 : Beskrive formål, vision og mission
                    : Aftal betingelser og spilleregler for overdragelse
                    : Analyser AS IS situationen
@@ -94,7 +89,7 @@ timeline
                    : Identificer lavth hængende frugter & mulige workarrounds
                    : påbegynd udvidelse af produktfællesskabet
                    : Udbred kendskabet til løsningen
-    section Preparation
+    section Forberedelse
       Q4 2025      : Etabler styrende organer i produktsamarbejded
                    : Dokumenter produktets kontrakt sturktur og udarbejd aftaler for 2026
                    : Overdrag strategisk planlægning til produktfællesskabet
@@ -104,8 +99,8 @@ timeline
                    : Planlæg en gradvis revision af forvaltningspraksis 
                    : Udpeg en acting product owner 
                    : aftal regler for release styring og kode review
-    section Handover
-      Q1 & Q2 2025  : Overdrag det juridiske og økonomiske ansvar for Core elementerne
+    section Overdragelse
+      Q1 & Q2 2026  : Overdrag det juridiske og økonomiske ansvar for Core elementerne
               : Udarbejd en strategi for vedligehold og videreudvikling
               : Dokumenter ansvar for vedligehold og videreudvikleing af alle elementer i kildekoden
               : Konsolider kildekoden i OS2's repositories
@@ -113,14 +108,14 @@ timeline
               : Revider produktets contribution guideline
               : Revider forvaltningsorganisationen, persongalleri, roller og ansvar. 
               : Indfør separation of duity igennem hele forsyningskædem
-    section Hypercare
-      Q3 2025 : Evaluer resultatet af overdragelsen og håndtere identificerede fejl og mangler
-              : automatiser releaseprocessen og 
-              : Udarbejd formelle kontrakter for fremtidig udvikling og vedligehold af Kildekodem
-              : Revider forvaltningsorganisationen og revider persongalleri, roller og ansvar. 
+    section Etablering
+      Q3 2026 : Evaluer resultatet af overdragelsesperioden og håndtere identificerede fejl og mangler
+              : Udarbejd standardiserede kontrakter for fremtidig udvikling og vedligehold af Kildekodem
+              : Revider forvaltningsorganisationen og revider persongalleri, roller og ansvar.
               : udpeg coreteam & github maintainers
+              : Igangsæt automatisering af releaseprocessen og buvfix  
 
-    section Phaseout
+    section Udfasning
       Q4 2026 : Evaluer handoverprodessen og identificer forbedringer
               : Luk projektet ned
               : Udfas alle former fo særstatus og midlertidige rutiner. 
