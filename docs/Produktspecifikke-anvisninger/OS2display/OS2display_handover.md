@@ -56,6 +56,12 @@ flowchart LR
    Duedilligence --> Preparation --> Handover --> hypercare --> Phase_out
 
 ```
+```mermaid
+
+flowchart LR
+   Afklaring --> Forberedelse --> Overdragelse og Implementering --> xxxxxxxx --> udfasning
+
+```
 For hvert Tema ligger der en række fasebestemte aktiviteter, som tilsammen skal være med til at sikre samarbejde, transperans og driftsikkerhed, under hele overdragelsesfasen.
 (se herunder fr detaljer)
 
