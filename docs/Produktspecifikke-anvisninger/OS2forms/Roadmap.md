@@ -1,4 +1,4 @@
----
+traordi---
 layout: default
 title: "Roadmap og timeline for ekstraordinær sekretariatssupport til OS2forms"
 author: "Anna-Lis Berg"
@@ -11,12 +11,12 @@ has_children: false
 
 📆 _sidst opdateret: {{ site.time | date: '%B %d, %Y' }}_
 
-# OS2forms: Roadmap og Timeline for sekretariats-support
+# OS2forms: Roadmap og Timeline for ekstraordinær sekretariats-support
 
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
-    title       OS2Forms Roadmap for sekretariatssupport 2025/2026
+    title       OS2Forms Roadmap for ekstraordinær sekretariatssupport 2025/2026
     excludes    weekends
     tickInterval 1month
     %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week ("sunday") or "weekends", but not the word "weekdays".)
