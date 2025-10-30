@@ -61,24 +61,26 @@ Sekretariatssupporten til OS2forms kan deles op i fire hovedspor, 2 administrati
    - opdatering af hjemmeside
    - Publisering af referater
 
-2. **Community building**
+2. **Community building** og crowdfunding
     - Etablering af årshjul for produktfællesskabet
      - årshjul og praksis for Communitymøder
     - årshjul og praksis for Brugerklub møder ( anvendere)
     -  - årshjul og praksis for teknisk erfagruppemøder (kommunale driftsafdelinger og drifts leverandører)
+    - etablering af crowfundings model
         
-3. **Produktforvaltning** og leverandørsamarbejde
+3. **Produktforvaltning** og vedligehold af Kildekode
     - Releasemanagement & Bugfix håndtering ( optimering & opstramning incl 12 måbneders roadmap)
     - Transperans og sporbarhed i leverancen
-    - Praksis for tværgående leverandørsamarbejde (
+    - Praksis for tværgående leverandørsamarbejde
     - Forbedret Leverandørsamarbejde'
     - Etablering af beslutningslog
     - escalleringspunkt for manglende leverandørsamarbejde
     - årshjul og praksis for leverandøropfølgning
       
-5.  **Produktudvikling** og crowdfunding
-    - etablering af crowfundings model
+5.  **Produktudvikling** leverandørsamarbejde
+    - Etablering af transperant af issuetracking i Github
     - 12 mdr roadmap for feature udvikling
-    - Praksis for overtagelse af Contribution
+    - Praksis for overtagelse af Contributions
+    -  Oprydning i og overflytning af åbne Issues
 
 
