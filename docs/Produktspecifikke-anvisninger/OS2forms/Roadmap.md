@@ -19,15 +19,24 @@ gantt
     title       OS2Forms Roadmap for sekretariatssupport 2025/2026
     excludes    weekends
     tickInterval 1month
+    %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week ("sunday") or "weekends", but not the word "weekdays".)
+
+    section  OS2forms bemanding
+    Produktkoordinator udpeget   :crit, milestone, a1,2026-01-05, 0d
+    Produkt Owner udpeget        :crit, milestone, a1,2026-02-01, 0d
     Start: vert, v1, 2025-03-01,
     Årsskifte : vert, v3, 2026-01-01,
-    Slut: vert, v3, 2026-06-01,
-    %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week ("sunday") or "weekends", but not the word "weekdays".)
+    Os2forms financieret Produktkoordinator        :2026-01-01, 2026-08-30
+    Os2forms financieret Product Owner (PO)        :2026-02-01, 2026-08-30
+    Slut: vert, v3, 2026-08-01,
+    Mødeledelse og Administration overdraget   :crit, milestone, a1,2026-03-01, 0d
+    Produktforvaltning overdraget             :crit, milestone, a1,2026-04-01, 0d
+
+
 
     section  Sekretariasfunktion
     Handson support betralt af fællesskabet        :2025-00-01, 2026-01-01
     Oplærnig og videnoverdragelse                  :2026-01-05, 2026-03-01
-    Os2forms financieret Produktkoordinator        :2026-01-01, 2026-06-30
 
     section  Community building
     Hands-on support fra sekretariatet               :2025-10-20, 2026-04-01
@@ -35,8 +44,8 @@ gantt
 
     section  Produktforvaltning
     Hands-on support fra sekretariatet (PO)        :2025-03-01, 2026-03-01
-    Oplærnig og videnoverdragelse                  :2026-01-15, 2026-03-30
-    Os2forms financieret Product Owner (PO)        :2026-02-01, 2026-06-30
+    Oplærnig og videnoverdragelse                  :2026-02-01, 2026-03-30
+
 
     section  Produktudvikling
     Handson support fra sekretariatet                           :2025-11-01, 2026-03-01
