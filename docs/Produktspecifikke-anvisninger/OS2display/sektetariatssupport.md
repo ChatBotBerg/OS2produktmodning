@@ -77,8 +77,9 @@ Den ekstraordinære Sekretariatssupporten der ydes til OS2display 2025-2027 kan 
 4. Produktforvaltning og vedligehold
 5. Produktudvikling og leverandørsamarbejde
 
-De to første spor handler om administration, kommunikation og communitybuilding, og kan håndteres af en Produktkoordinator eller en Communitymanager med generel AC kompetence
-De to sidste handler om produktudvikling, leveralceledelse og leverandørsmarbejde, og kan håndtere af en Product owner som har praktisk erfaring med IT udvikling og vedligehold. 
+Punkt 1 fokuserer på planlægning, organisering og orkestrering af den formelle overdragelse af kildekode og forvaltningsansvar fra Aarhus Kommune tok OS2display produktfællesskabet.
+Punkt 2 og 3 handler om administration, kommunikation og communitybuilding, og kan håndteres af en Produktkoordinator eller en Communitymanager med generel AC kompetence
+Punkt 4 og 5 handler om produktudvikling, leveralceledelse og leverandørsmarbejde, og kan håndtere af en Product owner som har praktisk erfaring med IT udvikling og vedligehold. 
 ______________
 
 I forbindelse med udfasningen af den ekstratordinære sekretariatssupport er der brug ofr at OS2 fællesskaber afsætter midler til frikøb af 2 deltidsressorucer:
