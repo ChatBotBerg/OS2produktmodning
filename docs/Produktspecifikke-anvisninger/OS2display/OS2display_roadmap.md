@@ -54,3 +54,43 @@ Planenen følger den strategiske plan for overdargelse af kildekoden fra Aarhus 
    2. Der skal aftaler en reprioritering af igangværende udviklingsinitiativer
    3. Den nyeste version af kildekoden skal gøres implementations uafhængig 
    4. Der skal udarbejdes automatiserede implementations scripts for hele løsningen
+
+```mermaid
+gantt
+    dateFormat  YYYY-MM-DD
+    title       OS2display Roadmap revision af firvaltningsmodellen
+    excludes    weekends
+    tickInterval 1quarter
+    %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week ("sunday") or "weekends", but not the word "weekdays".)
+
+
+    section  Kontrakt og ejerskab 
+    Overdragelses aftale underskrevet        :crit, milestone, a1,2026-02-01, 0d
+    Juridisk ejerskab overdraget             :crit, milestone, a1,2026-04-01, 0d
+    Vedligeholdelses aftale indgået          :crit, milestone, a1,2026-04-01, 0d
+    Udviklingsaftaler på plads               :crit, milestone, a1,2026-05-01, 0d
+    Kontraktmodel revideret                  :crit, milestone, a1,2027-01-01, 0d
+    Start                                    : vert, v1, 2025-06-01,
+
+    section Produktforvaltning
+     Styregruppe etableret                   :crit, milestone, a1,2026-02-01, 0d
+     Produktansvar overdraget til koordinationsgruppen :crit, milestone, a1,2026-01-01, 0d
+     Erfagrupper for leverandører og anvendere aktiveret :crit, milestone, a1,2026-05-01, 0d
+     Crowfundingsmodel formaliseret          : crit, milestone, a1,2026-08-01, 0d
+     Årsskifte 25/26                         : vert, v2, 2026-01-01,
+    
+    section  Udviklings praksis
+    Brugerdokumentation v 1 klar             :crit, milestone, a1,2026-04-01, 0d
+    Implementerings dokumentation v 1        :crit, milestone, a1,2026-04-01, 0d
+    Model for udviklings bidrag formaliseret (Code contribution)         : crit, milestone, a1,2026-08-01, 0d
+    Github praksis satandardiseret          : crit, milestone, a1,2026-06-01, 0d
+    Årsskifte 26/27                         : vert, v3, 2027-01-01,
+
+    section  Produktudvikling
+    Godkendelses processer revideret        :crit, milestone, a1,2026-04-01, 0d
+    Plan for prioriterede udviklingsønsker - før overdragelse aftalt :crit, milestone, a1,2026-04-01, 0d
+    Plan for prioriterede udviklingsønsker - efter overdragelse aftalt :crit, milestone, a1,2026-04-01, 0d
+    Hypercare på communitybuilding              :2026-03-01, 2026-05-01
+    Slut                                            : vert, v4, 2027-04-01,
+
+```
