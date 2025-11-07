@@ -90,7 +90,7 @@ gantt
     Godkendelses processer revideret        :crit, milestone, a1,2026-04-01, 0d
     Plan for prioriterede udviklingsønsker - før overdragelse aftalt :crit, milestone, a1,2026-04-01, 0d
     Plan for prioriterede udviklingsønsker - efter overdragelse aftalt :crit, milestone, a1,2026-04-01, 0d
-    Hypercare på communitybuilding              :2026-03-01, 2026-05-01
+    Produktstrategi for 2027-28 klar :crit, milestone, a1,2026-08-01, 0d 
     Slut                                            : vert, v4, 2027-04-01,
 
 ```
