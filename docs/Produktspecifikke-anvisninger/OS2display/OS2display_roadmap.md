@@ -92,5 +92,4 @@ gantt
     Plan for prioriterede udviklingsønsker - efter overdragelse aftalt :crit, milestone, a1,2026-04-01, 0d
     Produktstrategi for 2027-28 klar :crit, milestone, a1,2026-08-01, 0d 
     Slut                                            : vert, v4, 2027-04-01,
-
 ```

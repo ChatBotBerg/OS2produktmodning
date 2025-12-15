@@ -12,6 +12,7 @@ has_children: false
 📆 _sidst opdateret: {{ site.time | date: '%B %d, %Y' }}_
 
 # OS2borgerpc: Roadmap og Timeline for sekretariatsstøtte til "borgerpc version 3"
+
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
