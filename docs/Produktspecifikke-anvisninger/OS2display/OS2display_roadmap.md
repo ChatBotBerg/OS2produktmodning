@@ -63,7 +63,6 @@ gantt
     tickInterval 1quarter
     %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week ("sunday") or "weekends", but not the word "weekdays".)
 
-
     section  Kontrakt og ejerskab 
     Overdragelses aftale underskrevet        :crit, milestone, a1,2026-02-01, 0d
     Juridisk ejerskab overdraget             :crit, milestone, a1,2026-04-01, 0d

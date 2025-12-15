@@ -2,7 +2,7 @@
 layout: default
 title: "OS2healthanalyzer: Vision, mission og målsætning"
 author: "Anna-Lis Berg"
-date: "1913-11-2025"
+date: "13-11-2025"
 status: "Udkast" 
 parent: "Open Source Healthanalyzer"
 nav_order: 1

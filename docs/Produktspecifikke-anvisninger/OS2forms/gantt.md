@@ -34,6 +34,7 @@ gantt
     Releasen er afsluttet                          :crit, milestone, a10,2025-11-20, 0d
 
 ```
+
 **Seneste revision af releasplanen er som flg:**
 - 27.08.2025: 1.scopingmøde med Bellcom
 - 17.09.2025: 2 scopingmøde med Bellcom 
