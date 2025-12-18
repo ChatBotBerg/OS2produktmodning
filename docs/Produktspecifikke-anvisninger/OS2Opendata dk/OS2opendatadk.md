@@ -26,10 +26,8 @@ gantt
    overdragelsesdag                                : vert, v1, 2026-01-01,
    Underskrift af overdragelses dokument          :des1, 2025-12-18, 2025-12-30
    Etablering af produktfællesskab of drifts organisation              :des2, 2026-01-05, 2026-06-30
-   Udsendelse af Allonge til tilslutningsaftalen  :crit, milestone, m1,2026-02-01, 0d
-      Velkomst til medlemmerne             :crit, milestone, m1,2026-01-15, 0d
-   Fjernelse af adgange 1(medlemmer uden tilsagt til informations overdragelse) :crit, milestone, m1,2026-03-01, 0d
-   Fjernelse af adgange 2 (medlemmer uden accept af allonge) :crit, milestone, m1,2026-04-01, 0d
+   Velkomst til medlemmerne             :crit, milestone, m1,2026-01-15, 0d
+   Fjernelse af adgange (medlemmer uden tilsagt til informations overdragelse) :crit, milestone, m1,2026-03-01, 0d
    Rev. forvaltnings og finansiering               :des2, 2026-06-01, 2026-12-31
    Rev. Leverandør Kontrakt                         :des3, 2027-01-01, 2027-07-01
    Rev. Tilslutningsaftale                          :des4, 2027-01-01, 2027-07-01
