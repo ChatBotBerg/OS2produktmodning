@@ -24,7 +24,7 @@ gantt
     
    section Strategi periode
    overdragelsesdag                                : vert, v1, 2026-01-01,
-   Underskrift af overdragelses dokument          :des1, 2025-08-028, 2025-12-02
+   Underskrift af overdragelses dokument          :des1, 2025-12-18, 2025-12-30
    Etablering af produktfællesskab of drifts organisation              :des2, 2026-01-05, 2026-06-30
    Udsendelse af Allonge til tilslutningsaftalen  :crit, milestone, m1,2026-02-01, 0d
       Velkomst til medlemmerne             :crit, milestone, m1,2026-01-15, 0d
