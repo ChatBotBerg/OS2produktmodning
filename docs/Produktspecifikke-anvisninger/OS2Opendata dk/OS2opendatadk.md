@@ -1,4 +1,4 @@
----
+gelse---
 layout: default
 title: "OS2opendata.dk"
 author: "Anna-Lis Berg"
@@ -22,7 +22,7 @@ gantt
   
     %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week ("sunday") or "weekends", but not the word "weekdays".)
     
-   section Strategi periode
+   section -
    
    -                                              : milestone, m2, 2025-12-01,
    Overdragelsesdag                                : vert, v2, 2026-01-01,
