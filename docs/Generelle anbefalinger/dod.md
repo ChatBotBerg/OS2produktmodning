@@ -4,7 +4,7 @@ title: "Definition of Done"
 author: "Lisbeth Wittendorff Lorentzen"
 date: "19-12-2025"
 status: "Udkast" 
-parent: "Generelle anbefalinger"
+parent: "Generelle anvisninger"
 nav_order: 1
 has_children: false
 ---
