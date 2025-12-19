@@ -43,9 +43,9 @@ has_children: false
 
 | Aktivitet | Forretningsværdi (1-5) | Impact-timer pr. uge, hvis ikke løst (1-5) | Hard wins (1-5) | Soft wins (1-5) | Tidskritisk (1-5) | Strategisk vigtighed (1-5) | Samlet Prioritetssum |
 |---|---|---|---|---|---|---|---|
-| Funktion A | 0 | 0 | 0 | 0 | 0 | 0 | (Sum af scorerne) |
-| Funktion B | 0 | 0 | 0 | 0 | 0 | 0 | (Sum af scorerne) |
-| Fejl C | 0 | 0 | 0 | 0 | 0 | 0 | (Sum af scorerne) |
+| Funktion A | 4 | 3 | 5 | 4 | 3 | 5 | (Sum af scorerne) |
+| Funktion B | 2 | 1 | 1 | 2 | 1 | 2 | (Sum af scorerne) |
+| Fejl C | 5 | 5 | 4 | 3 | 5 | 4 | (Sum af scorerne) |
 | ... | | | | | | | | |
 | **Prioritetsfaktor (gennemsnit/vægtet)** | | | | | | | | |
 ```
