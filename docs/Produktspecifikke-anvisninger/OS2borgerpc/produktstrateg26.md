@@ -53,7 +53,7 @@ gantt
    Årsskifte 27                                    : vert, v3, 2027-01-01,
    POC Arkitektur design                    :des1, 2025-08-02, 2025-12-02
    Klargøring af POC                       :des1, 2025-12-02, 2026-02-01
-   Hackaton /POC                         :des1, 2026-02-01, 2026-04-01
+   Hackatons /POC Iterationer                        :des1, 2026-02-01, 2026-05    -01
    MVP udvikling                         :des1, 2026-04-01, 2026-08-01
    Produktionsmodning                      :des1, 2026-08-01, 2027-02-01
    Release af v1                          :crit, milestone, m1,2027-02-01, 0d
