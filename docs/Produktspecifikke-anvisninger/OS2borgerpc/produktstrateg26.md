@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "POS2borgerpc produktstrategi 2026"
+title: "OS2borgerpc produktstrategi 2026"
 author: "Anna-Lis Berg"
 date: "10-12-2025"
 status: "Udkast" 
