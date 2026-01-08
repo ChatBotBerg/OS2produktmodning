@@ -5,7 +5,7 @@ author: "Anna-Lis Berg"
 date: "31-10-2025"
 status: "Udkast" 
 parent: "OS2borgerpc"
-nav_order: 4
+nav_order: 3
 has_children: false
 ---
 
