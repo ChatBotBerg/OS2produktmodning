@@ -9,7 +9,7 @@ nav_order: 2
 has_children: false
 ---
 
-# Definition of Done – OS2iot
+# Project definition template
 
 # Project Name
 (dd. mmm YYYY - dd. mmm yyyy)
