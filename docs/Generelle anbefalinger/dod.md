@@ -5,11 +5,11 @@ author: "Lisbeth Wittendorff Lorentzen"
 date: "19-12-2025"
 status: "Udkast" 
 parent: "Generelle anvisninger"
-nav_order: 1
+nav_order: 5
 has_children: false
 ---
 
-# Definition of Done – OS2iot
+# Definition of Done – OS2iot eksempel
 
 **Målrettet leverandør**: Iterator IT ApS
 
