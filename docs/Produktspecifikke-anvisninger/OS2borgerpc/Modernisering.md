@@ -1,17 +1,17 @@
 ---
 layout: default
-title: "Roadmap og timeline for produkmodernisering"
+title: "Sekretariats support til produkmodernisering"
 author: "Anna-Lis Berg"
 date: "31-10-2025"
 status: "Udkast" 
 parent: "OS2borgerpc"
-nav_order: 3
+nav_order: 11
 has_children: false
 ---
 
 📆 _sidst opdateret: {{ site.time | date: '%B %d, %Y' }}_
 
-# OS2borgerpc: Roadmap og timeline for produkmodernisering
+# OS2borgerpc: Sekretariatssupport til produkmodernisering
 
 ```mermaid
 gantt
