@@ -1,27 +1,17 @@
 ---
 layout: default
-title: "Roadmap og timeline for ekstraordinær sekretariatssupport til modernisering og videreudvikling"
+title: "Roadmap og timeline for produkmodernisering"
 author: "Anna-Lis Berg"
 date: "31-10-2025"
 status: "Udkast" 
 parent: "OS2borgerpc"
-nav_order: 3
-has_children: false
----
----
-layout: default
-title: "POS2borgerpc produktstrategi 2026"
-author: "Anna-Lis Berg"
-date: "10-12-2025"
-status: "Udkast" 
-parent: "OS2borgerpc"
-nav_order: 1
+nav_order: 4
 has_children: false
 ---
 
 📆 _sidst opdateret: {{ site.time | date: '%B %d, %Y' }}_
 
-# OS2borgerpc: Roadmap og Timeline for sekretariatsstøtte til modernisering og videreudvikling
+# OS2borgerpc: Roadmap og timeline for produkmodernisering
 
 ```mermaid
 gantt
