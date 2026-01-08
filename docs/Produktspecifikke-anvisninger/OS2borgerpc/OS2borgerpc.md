@@ -34,7 +34,7 @@ Afslutningsvist blev der afholdt et  **strategiseminar** for produktets Koordina
 
 ## 2025 resultat
 
-De mest håndgribelige resulater i 2025 er som flg:
+De mest **håndgribelige resulater i 2025** er som flg:
 1. Udarbejdelse af et  målbillede for produktforvaltning
 2. Etablering af en stabilstyregruppe
 3. Tilknytning af en Product Owner
