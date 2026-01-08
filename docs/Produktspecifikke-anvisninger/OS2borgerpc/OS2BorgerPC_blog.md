@@ -5,9 +5,11 @@ author: "Anna-Lis Berg"
 date: "19-09-2025"
 status: "færdigt" 
 parent: "OS2borgerpc"
-nav_order: 1
+nav_order: 5
 has_children: false
 
+
+---
 📆 _sidst opdateret: {{ site.time | date: '%B %d, %Y' }}_
 
 # 2025 Lanciering af ny produkt version 

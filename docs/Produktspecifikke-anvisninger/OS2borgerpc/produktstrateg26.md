@@ -12,7 +12,6 @@ has_children: false
 📆 _sidst opdateret: {{ site.time | date: '%B %d, %Y' }}_
 
 # OS2borgerpc: Produktstrategi 2026/2027  
-
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
@@ -29,8 +28,6 @@ gantt
    Eksekvering fase 1                  :des3, 2026-01-15, 2026-12-31
    Evaluering  og revision              :des3, 2026-11-15, 2027-01-15
    Eksekvering fase 2                  :des3, 2027-01-15, 2027-06-01
-
-   
 ``` 
 
 # OS2borgerpc: Produktstrategi 2026/2027 produkt roadmap

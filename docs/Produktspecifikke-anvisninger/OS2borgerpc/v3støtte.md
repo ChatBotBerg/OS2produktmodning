@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Roadmap og timeline for ekstraordinær sekretariatssupport til "borgerpc version 3"
+title: "Roadmap og timeline for ekstraordinær sekretariatssupport til modernisering og videreudvikling
 author: "Anna-Lis Berg"
 date: "31-10-2025"
 status: "Udkast" 
@@ -11,7 +11,7 @@ has_children: false
 
 📆 _sidst opdateret: {{ site.time | date: '%B %d, %Y' }}_
 
-# OS2borgerpc: Roadmap og Timeline for sekretariatsstøtte til "borgerpc version 3"
+# OS2borgerpc: Roadmap og Timeline for sekretariatsstøtte til modernisering og videreudvikling
 
 ```mermaid
 gantt
