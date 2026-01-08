@@ -22,7 +22,7 @@ gantt
     
    section Strategi periode
    tart                                : vert, v1, 2025-08-04,
-   Forberedelse                        :des1, 2025-08-028, 2025-12-02
+   Forberedelse                        :des1, 2025-08-028, 2025-01-03
    Vedtagelse af strategi          :crit, milestone, m1,2025-12-02, 0d
    Forberedelse                          :des2, 2025-12-02, 2026-01-15
    Lanciering                    :crit, milestone, m1,2026-01-15, 0d
@@ -45,17 +45,17 @@ gantt
    slut                                            : vert, v4, 2027-06-01,
    Årsskifte 26                                    : vert, v2, 2026-01-01,
    Vedligehold ved frikøb                     :des4, 2025-08-02, 2026-05-01
-   Indgåelse af vedligeholdelses kontrakt     :des4, 2026-03-02, 2026-05-01
-   Kontraktuel vedligehold og viderudvikling  :des5, 2026-05-01, 2027-06-01
+   Indgåelse af vedligeholdelses kontrakt     :des5, 2026-03-01, 2026-05-01
+   Kontraktuel vedligehold og viderudvikling  :des6, 2026-05-01, 2027-06-01
    Overgang til pro vedligehold for UBUNTU 22.04 :crit, milestone, m1,2027-04-01, 0d
    
    section  OS2borgerpc v 3
    Årsskifte 27                                    : vert, v3, 2027-01-01,
    POC Arkitektur design                    :des1, 2025-08-02, 2025-12-02
    Klargøring af POC                       :des1, 2025-12-02, 2026-02-01
-   Hackatons /POC Iterationer                        :des1, 2026-02-01, 2026-05    -01
-   MVP udvikling                         :des1, 2026-04-01, 2026-08-01
-   Produktionsmodning                      :des1, 2026-08-01, 2027-02-01
+   Hackatons & POC Iterationer             :des1, 2026-02-01, 2026-05-01
+   MVP udvikling                         :des1, 2026-05-01, 2026-09-01
+   Produktionsmodning                      :des1, 2026-09-01, 2027-02-01
    Release af v1                          :crit, milestone, m1,2027-02-01, 0d
    Migrering                            :des5, 2027-02-01, 2027-07-01
 
