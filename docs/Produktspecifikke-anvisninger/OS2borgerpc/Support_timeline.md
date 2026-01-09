@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Roadmap og timeline for ekstraordinær sekretariatssupport til OS2borgerpc"
+title: "Timeline for ekstraordinær sekretariatssupport til OS2borgerpc"
 author: "Anna-Lis Berg"
 date: "19-08-2025"
 status: "Udkast" 
-parent: "OS2borgerpc"
-nav_order: 10
+parent: "Ekstra sekretariats bistand"
+nav_order: 1
 has_children: false
 ---
 
@@ -59,10 +59,8 @@ ______________
 
 Den ekstraordinære Sekretariatssupporten til OS2borgerpc har til formål at styrke produktsamarbejdet og fremme produktudbredelsen, og har været financieret af OS2 samarbejdet siden 2023.
 Den ekstra ordinære indsats vil blive udfaset i løbet af 2025, hvorefter sekretariatsstøtten til den eksisterende version af produktet vil fortsætte på lige vilkår med andre OS2produkter.
-Herefter vil eventuel ekstraordinær støtte fokusere på udvikling af en ny og fremtidssikret version af produkte.
 
-
-Den ekstraordinære Sekretariatssupporten der ydes i 2025-26 kan deles op flg hovedspor, 
+Den ekstraordinære Sekretariatssupporten i 2025/26  kan deles i  op flg hovedspor, 
 
 1. Sekretariasfunktion og økonomirapportering
 2. Community building og communitybuilding

@@ -13,7 +13,7 @@ has_children: true
 
 # OS2borgerpc
 
-Min bistand til OS2borgerPC er en del af strategisk indsats i OS2 omkring telantudvikling og professionalisering af produktportefølgen.
+Bistanden til OS2borgerPC er en del af strategisk indsats i OS2 omkring telantudvikling og professionalisering af produktportefølgen.
 
 ## 2025 fokus
 
