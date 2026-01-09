@@ -4,7 +4,6 @@ theme: just-the-docs
 
 mermaid:
   # Version of mermaid library
-   # Version of mermaid library
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
   version: "11.12.0"
 
