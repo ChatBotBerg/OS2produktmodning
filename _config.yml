@@ -4,8 +4,7 @@ theme: just-the-docs
 
 mermaid:
   # Version of mermaid library
-  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
-  version: "11.12.0"
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid@11.12.0"
 
 url: https://chatbotberg.github.io/OS2produktmodning/
 
