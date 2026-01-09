@@ -1,11 +1,25 @@
 ---
+layout: default
+title: "Task definition ISSUE template"
+author: "Anna-Lis Berg"
+date: "19-12-2025"
+status: "final" 
+parent: "Generelle anvisninger"
+nav_order: 3
+has_children: false
+---
+
+#Task definition ISSUE Template
+
+## meta information
 - name: Task Definition
 - about: Describes a Task or an Action
 - title: '[TASK]'
 - labels: Task
 - assignees: ''
 
----
+##Template indhold
+
 # {short title, representative of the taskrequired}
 
 **Danish short name**: {please refere to any danish wording used to define the activity in scope}
