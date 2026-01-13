@@ -25,7 +25,7 @@ Bistanden til OS2borgerPC er en del af strategisk indsats i OS2 omkring telantud
 
 Som **understøttende atktiviteter** for dette er der derudover blevet arbejdet med
 1. Implementering af ensartede forvaltningsprocesser
-2. Sikring af sporbarhedd og transperas i produktvedligeholdet
+2. Sikring af sporbarhedd og transperans i produktvedligeholdet
 3. Udarbejdelse af et målbillede for fremtidig produktforvaltning
    
 Afslutningsvist blev der afholdt et  **strategiseminar** for produktets Koordinations- og Styre gruppe medlemmer,  hvor man fastlage

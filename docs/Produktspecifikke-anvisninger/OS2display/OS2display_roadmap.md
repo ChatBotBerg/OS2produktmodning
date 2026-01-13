@@ -13,15 +13,8 @@ has_children: false
 
 # Revision af forvaltningsmodellen i OS2 display
 
+Revisionen af forvaltningsmodellen er et centralt element i den strategiske plan for overdargelse af kildekoden fra Aarhus Kommune til OS2 [JVF: OS2display overdragelse til OS2](https://chatbotberg.github.io/OS2produktmodning/docs/Produktspecifikke-anvisninger/OS2display/OS2display_handover.html)
 
-Den startegiske plan for revision af forvaltningsmodellen i OS2display i forbindelse med opstart på den formelle overtagelse af produiktets kildekode.
-
-Planenen følger den strategiske plan for overdargelse af kildekoden 8
-Planenen følger den strategiske plan for overdargelse af kildekoden fra Aarhus Kommune til OS2 [JVF: OS2display overdragelse til OS2](https://chatbotberg.github.io/OS2produktmodning/docs/Produktspecifikke-anvisninger/OS2display/OS2display_handover.html)
-
-
-
-## Fokus og omdrejningspunkt: Revision af forvaltningsmodellen i OS2 display
 
 **Indsatsområder** (arbejdsstråmme)
 1. Kontrakt og ejerskab 
