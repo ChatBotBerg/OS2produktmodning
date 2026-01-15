@@ -4,8 +4,8 @@ title: "Afklaring, afprøvning og afgrænsning"
 author: "Anna-Lis Berg"
 date: "19-09-2025"
 status: "Udkast" 
-parent: "OS2healthanalyzer"
-nav_order: 4
+parent: "Open Source Healthanalyzer"
+nav_order: 2
 has_children: false
 ---
 

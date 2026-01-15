@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Open-Source Healthanalyzer"
+title: "Open Source Healthanalyzer"
 author: "Anna-Lis Berg"
 date: "19-09-2025"
 status: "Udkast" 
@@ -57,4 +57,3 @@ Det anbefales at dele etableringsforløbet op i flg faser:
 3. Implementering af "det gode eksempel" / (fyrtårns implementering)"
 4. Etablering og udbredelse af en af en skalerbar og produktionsklar løsning
 
-![Visionen for forløbet](Assets\images\Skærmbillede 2026-01-15 132215.png)

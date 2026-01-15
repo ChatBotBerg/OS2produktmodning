@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Open Source Healthanalyzer POC 2025"
+title: "KL POC forslag 2026"
 author: "Anna-Lis Berg"
 date: "19-09-2025"
 status: "Udkast" 
-parent: "Open-Source Healthanalyzer"
+parent: "Open Source Healthanalyzer"
 nav_order: 5
 has_children: false
 ---
@@ -12,7 +12,7 @@ has_children: false
 
 📆 _sidst opdateret: {{ site.time | date: '%B %d, %Y' }}_
 
-# Open Source Healthanalyzer POC 2025
+# KL POC forslag 2026
 
 Arbejdsgruppen bag KL-rapporten om de 10 mest genbrugelige open-source løsninger i den danske offentlige sektor har behov for at effektivisere og objektivisere indsamling og vurdering af datagrundlaget, samt for at kunne reproducere målingerne på en ensartet, gennemsigtig og effektiv måde.
 
