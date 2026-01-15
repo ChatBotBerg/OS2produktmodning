@@ -48,4 +48,4 @@ has_children: false
 | Fejl C | 5 | 5 | 4 | 3 | 5 | 4 | (Sum af scorerne) |
 | ... | | | | | | | | |
 | **Prioritetsfaktor (gennemsnit/vægtet)** | | | | | | | | |
-```
+
