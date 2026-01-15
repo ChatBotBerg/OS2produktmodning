@@ -4,7 +4,7 @@ title: "Open Source Healthanalyzer POC 2025"
 author: "Anna-Lis Berg"
 date: "19-09-2025"
 status: "Udkast" 
-parent: "Produktspecifikke anvisninger"
+parent: "Open-Source Healthanalyzer"
 nav_order: 5
 has_children: false
 ---
