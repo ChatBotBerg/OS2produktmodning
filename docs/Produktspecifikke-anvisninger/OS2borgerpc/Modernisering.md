@@ -4,7 +4,7 @@ title: "Sekretariats support til produkmodernisering"
 author: "Anna-Lis Berg"
 date: "31-10-2025"
 status: "Udkast" 
-parent: "Ekstra sekretariats bistand"
+parent: "Talentudvikling i OS2borgerpc"
 nav_order: 11
 has_children: false
 ---
