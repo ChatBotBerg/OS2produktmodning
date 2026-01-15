@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Timeline for ekstraordinær sekretariatssupport til OS2borgerpc"
+title: "Timeline for støtte til produktforvaltningen"
 author: "Anna-Lis Berg"
 date: "19-08-2025"
 status: "Udkast" 
-parent: "Ekstra sekretariats bistand"
+parent: "Talentudvikling i OS2borgerpc"
 nav_order: 1
 has_children: false
 ---
