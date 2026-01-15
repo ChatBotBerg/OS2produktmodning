@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Status og overblik"
+title: "fokusområder 2026"
 author: "Anna-Lis Berg"
 date: "19-08-2025"
 status: "Udkast" 
@@ -12,4 +12,6 @@ has_children: false
 
 📆 _sidst opdateret: {{ site.time | date: '%B %d, %Y' }}_
 
-# status og overblik over fremdrift
+# fokusområder 2026
+
+TBD
