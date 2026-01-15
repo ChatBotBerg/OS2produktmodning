@@ -57,3 +57,4 @@ Det anbefales at dele etableringsforløbet op i flg faser:
 3. Implementering af "det gode eksempel" / (fyrtårns implementering)"
 4. Etablering og udbredelse af en af en skalerbar og produktionsklar løsning
 
+
