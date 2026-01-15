@@ -56,3 +56,5 @@ Det anbefales at dele etableringsforløbet op i flg faser:
 2. Etablering af en referencearkitektur
 3. Implementering af "det gode eksempel" / (fyrtårns implementering)"
 4. Etablering og udbredelse af en af en skalerbar og produktionsklar løsning
+
+![Visionen for forløbet](Assets\images\Skærmbillede 2026-01-15 132215.png)
