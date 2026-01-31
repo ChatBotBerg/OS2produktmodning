@@ -3,7 +3,7 @@ layout: default
 title: "OS2borgerpc"
 author: "Anna-Lis Berg"
 date: "19-09-2025"
-status: "Udkast" 
+status: "Final" 
 parent: "Produktspecifikke anvisninger"
 nav_order: 3
 has_children: true
@@ -13,7 +13,8 @@ has_children: true
 
 # OS2borgerpc
 
-Bistanden til OS2borgerPC er en del af strategisk indsats i OS2 omkring telantudvikling og professionalisering af produktportefølgen.
+Mit engagemnent i OS2borgerPC er en del af strategisk indsats i OS2 omkring [talentudvikling](https://chatbotberg.github.io/OS2produktmodning/docs/Produktspecifikke-anvisninger/OS2borgerpc/sekretariatsbisdand.html) og professionalisering af produktportefølgen. 
+
 
 ## 2025 fokus
 

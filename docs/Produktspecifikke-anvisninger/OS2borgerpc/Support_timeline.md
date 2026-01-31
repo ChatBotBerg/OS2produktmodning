@@ -12,6 +12,7 @@ has_children: false
 📆 _sidst opdateret: {{ site.time | date: '%B %d, %Y' }}_
 
 # OS2borgerpc: Roadmap og Timeline for ekstraordinær sekretariats-support
+
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
@@ -58,6 +59,7 @@ gantt
 ______________
 
 Den ekstraordinære Sekretariatssupporten til OS2borgerpc har til formål at styrke produktsamarbejdet og fremme produktudbredelsen, og har været financieret af OS2 samarbejdet siden 2023.
+
 Den ekstra ordinære indsats vil blive udfaset i løbet af 2025, hvorefter sekretariatsstøtten til den eksisterende version af produktet vil fortsætte på lige vilkår med andre OS2produkter.
 
 Den ekstraordinære Sekretariatssupporten i 2025/26  kan deles i  op flg hovedspor, 
@@ -72,14 +74,16 @@ De to sidste handler om produktudvikling, leveralceledelse og leverandørsmarbej
 ______________
 
 I forbindelse med udfasningen af den ekstratordinære sekretariatssupport er der brug ofr at OS2 fællesskaber afsætter midler til frikøb af 2 deltidsressorucer:
-   1. en Produkt koordinator eller community manager ansvar for Administration, Kommunikation og Koordination 
-   2. en Product Owner med ansvar for produktforvaltning og produkt udvikling
+
+ 1. en Produkt Adminiatrator eller Koordinator med ansvar for Administration, Kommunikation og Koordination 
+ 2.  en Product Owner med ansvar for produktforvaltning og produkt udvikling
 
 OS2 forms vil fortsat modtage support fra sekretariatet, i form af rådgivning, vejledning og praktisk AD-hoc bistand.  
+
 De to identificerede ressorucer vil derudover blive en del af OS2s "korps" af Produkt koordinatorer, communituymanagere og Product Owners, med alt hvad det medførere af vidensdeling, skabelonudveksling og kompetenceopbygning. 
 ______________
 
-De fire hovedspor i den tildelte sekteratiats support har dækker over flg kerneaktivitete
+De fire hovedspor i den tildelte sekteratiats support har indtil 2025 flg kerneaktivitete
    
 1. **Sekretariasfunktion** og økonomirapportering
 - Administration og økonomiopfølgning

@@ -30,7 +30,6 @@ Som **understøttende atktiviteter** for dette er der derudover blevet arbejdet 
 4. Revitalisering af produktsamarbejdet og Onboarding af nye aktører
 
 
-
 ## 2025 resultat
 
 De mest **håndgribelige resulater i 2025** er som flg:
@@ -45,17 +44,16 @@ Derudover er der blevet udarbejdet indgående med
 
 
 ## 2026 målsætningen
-Den overordnede målsætningen for talentudvikling og produktmodning i 2026 er atsom flg:
+Den overordnede målsætningen for talentudvikling og produktmodning i 2026 er som flg:
 1. Udarbejdels af **rammeaftale for overdragelse** fra Aarhus Kommune og OS2.
-2. **Overdragelse** af Produkt ejerskab, leveradøraftaler og forvaltningsansvar.
-3. Etablering af forvaltningsorganisation og onboarding af en **styregruppe** 
+2. Suppervisering i forbindelse med **Overdragelse** af Produkt ejerskab, leveradøraftaler og forvaltningsansvar.
+3. Etablering af en blivende forvaltningsorganisation og onboarding af en **styregruppe** 
    
 
 Derudover vil der blive arbejdet målrettet med at:
 
 1. revidere **kontraktmodel og aftale struktur** for vedligehold og videreudvikling
-2. sikre at transperans og sporbarhed i beslutningsprocesserne
-3. sikre en stabil oproduktforvaltning gennem sparring og vidensdeling
-4. etablere Årshjul og mødeplan for Produktforvaltning
-5. etablere en erfaringsbaseret model for hjemtagning af OS2 produktktejerskab og kildekode
+2. Øge transperans og sporbarhed i beslutningsprocesserne
+4. Udarbejdelse af Årshjul og mødeplan for Produktforvaltning
+5. Etablering af en generisk anvendelig metode til  hjemtagning af produktktejerskab og kildekode
 

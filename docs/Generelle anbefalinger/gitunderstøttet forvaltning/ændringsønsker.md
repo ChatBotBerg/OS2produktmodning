@@ -8,6 +8,7 @@ parent: "Git understøttet processer"
 nav_order: 1
 has_children: true
 ---
+📆 _sidst opdateret: {{ site.time | date: '%B %d, %Y' }}_
 
 # Indberetning, evaluering og prioritering af ændringsønsker
 
