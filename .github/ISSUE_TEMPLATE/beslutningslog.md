@@ -6,6 +6,8 @@ labels: ''
 assignees: ''
 ---
 
+📆 _sidst opdateret: {{ site.time | date: '%B %d, %Y' }}_
+
 ## Metadata:
 - Dato: [ÅÅÅÅ-MM-DD]
 - Status: [Forslag / Accepteret / Erstattet / Afvist]
