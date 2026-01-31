@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Git template- beslutningslog"
+title: "Beslutningslog (Git skabelon)"
 author: "Anna-Lis Berg"
 date: "31-01-2026"
 status: "Final" 
@@ -9,20 +9,21 @@ nav_order: 9
 has_children: false
 ---
 
-# Git template- beslutningslog"
+# Beslutningslog (Git skabelon)
 
 📆 _sidst opdateret: {{ site.time | date: '%B %d, %Y' }}_
 
 ---
-## Github - standard Issue metadata
-name: Beslutningslog
-about: Strukturert beskrivelse af en væsentlig beslutning i produktet
-title: "[ADR/SDR/ODR][Tittle]"
-labels: ''
-assignees: ''
+## Issue metadata (Github standard)
+- name: Beslutningslog
+- about: Strukturert beskrivelse af en væsentlig beslutning i produktet
+- title: "[ADR/SDR/ODR][Tittle]"
+- labels: ''
+- assignees: ''
 ---
 
-## Skabelon specifik Metadata:
+## Skabelon specifik Metadata to be included
+
 - Dato: [ÅÅÅÅ-MM-DD]
 - Status: [Forslag / Accepteret / Erstattet / Afvist]
 - Beslutningstagere: [Beslutningsorgan, Navne  eller roller]
