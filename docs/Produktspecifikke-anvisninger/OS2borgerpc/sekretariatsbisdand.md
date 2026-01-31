@@ -3,7 +3,7 @@ layout: default
 title: "Talentudvikling i OS2borgerpc"
 author: "Anna-Lis Berg"
 date: "10-12-2025"
-status: "Udkast" 
+status: "Final" 
 parent: "OS2borgerpc"
 nav_order: 8
 has_children: true

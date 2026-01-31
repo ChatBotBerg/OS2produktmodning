@@ -4,12 +4,12 @@ title: "Git template- beslutningslog"
 author: "Anna-Lis Berg"
 date: "31-01-2026"
 status: "Final" 
-parent: "Referat skabelon"
+parent: "Generelle anvisninger"
 nav_order: 9
 has_children: false
 ---
 
-#Git template- beslutningslog"
+# Git template- beslutningslog"
 
 📆 _sidst opdateret: {{ site.time | date: '%B %d, %Y' }}_
 

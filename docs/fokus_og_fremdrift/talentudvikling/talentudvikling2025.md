@@ -1,11 +1,13 @@
 1. **Sekretariasfunktion** og økonomirapportering
 - Håndtering af den daglige administration, mødeledelse og økonomiopfølgning
-- 
+- Etablering af årshjul og mødepraksis for produktrnes Styre- og Koordinationsgrupper.
 
-2. **Community building** og crowdfunding
+
+1. **Community building** og crowdfunding
 - etablering af styregruppe i Os2 borgerpc
-- Etablering af årshjul og mødepraksis for Styregruppe og Koordinationsgrupper i de 3 produkter
--etablering af målbillede og årshjul for produktfællesskabets organisering. 
+- xxxxxx
+
+ 
         
 1. **Produktforvaltning** og leverandørsamarbejde
 - Etablering af forvaltningsorganisation 

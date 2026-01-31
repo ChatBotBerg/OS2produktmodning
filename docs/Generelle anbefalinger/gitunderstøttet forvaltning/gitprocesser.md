@@ -14,7 +14,7 @@ den gitunderstøttede produktforvaltning vil skulle understøtte flg processer
 
 1. Indberetning, evaluering og prioritering af ændringsønsker
 2. Indberetning, evaluering og prioritering af fejl og mangler
-3. Diskusion og dokumentation af arkitekturprincipper og produktstrategi
+3. Diskusion og dokumentation af arkitekturprincipper, produktstrategi og samarbejdsmodel
 4. Risiko styring
 5. Leverancesledelse og fremdriftsrapportering
 6. backlog evaluering og releasestyring

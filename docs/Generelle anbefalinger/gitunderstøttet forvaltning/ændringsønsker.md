@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Git understøttet Ændringsanmodniger"
+title: "Indberetning, evaluering og prioritering af ændringsønsker"
 author: "Anna-Lis Berg"
 date: "19-12-2025"
 status: "final" 
