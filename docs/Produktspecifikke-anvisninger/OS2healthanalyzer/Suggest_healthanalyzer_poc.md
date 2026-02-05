@@ -82,12 +82,12 @@ Dette arrangement vil realistisk set kunne afvikles for mellem 150.000 og 200.00
    3. 4.000 - 8.000 KR kr til møde forplejning
       
 ***POC***
-   5. 15.000 - 25.000 til etablering og 2 måneders drift at et digital suveræn platform til kildekodeforvaltning, hackaton aktiviteter og POC afvikling
-   6. 15.000  til tilpasninger under POC
+   1. 15.000 - 25.000 til etablering og 2 måneders drift at et digital suveræn platform til kildekodeforvaltning, hackaton aktiviteter og POC afvikling
+   2. 15.000  til tilpasninger under POC
 
 ***Snakathon***
-   5. 12.000 - 18.000 Kr til transport og accomondation til deltagerne ( 4-6 rejsende)
-   6. 2.000 - 3.000 KR kr til møde forplejning
+   1. 12.000 - 18.000 Kr til transport og accomondation til deltagerne ( 4-6 rejsende)
+   2. 2.000 - 3.000 KR kr til møde forplejning
    
   ***NB!*** platforms omkostningen er vurderet ud fra anvendelse af en europæisk løsning leveret Stackhero [https://www.stackhero.io/en-US/services/GitLab/pricing](https://www.stackhero.io/en-US/services/GitLab/pricing)
    Så fremt man ønsker den leveret af en dansk leverandør er det  erfaringen at prisen bliver langt højer.
