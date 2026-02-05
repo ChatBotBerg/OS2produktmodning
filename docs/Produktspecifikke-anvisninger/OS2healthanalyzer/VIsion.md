@@ -31,4 +31,4 @@ Driftinstansen for ejes og financieres af DIGST
 - Skabe en dansk defactoløsning for automatiserede løsninger
 
 
-/../main/assets/images/healthstrategy.JPG
+![vision](/../main/Assets/images/healthstrategy.JPG)
