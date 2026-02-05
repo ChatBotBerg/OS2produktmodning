@@ -8,7 +8,7 @@ parent: "Open Source Healthanalyzer"
 nav_order: 3
 has_children: false
 ---
----
+
 # Indledende Hackaton
 
 Hackaton 
