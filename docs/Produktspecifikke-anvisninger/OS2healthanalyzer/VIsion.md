@@ -29,3 +29,6 @@ Os2 Healthanalyzer kan
 Kildekoden vedligeholdes og videreudvikles i OS2 regi
 Driftinstansen for ejes og financieres af DIGST 
 - Skabe en dansk defactoløsning for automatiserede løsninger
+
+
+/../main/assets/images/healthstrategy.JPG
