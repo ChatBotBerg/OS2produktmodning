@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "OS2healthanalyzer: Vision, mission og målsætning"
+title: "Vision, mission og målsætning"
 author: "Anna-Lis Berg"
 date: "13-11-2025"
 status: "Udkast" 
@@ -9,7 +9,7 @@ nav_order: 1
 has_children: false
 ---
 ---
-# OS2healthanalyzer Vision, mission og målsætning
+# Vision, mission og målsætning
 
 VISION: OS2 Healthanalyzeren skaber grundlaget for evaluering af modenhed i danske Open sorurce øsninger 
 
@@ -31,4 +31,6 @@ Driftinstansen for ejes og financieres af DIGST
 - Skabe en dansk defactoløsning for automatiserede løsninger
 
 
-![vision](/../main/Assets/images/healthstrategy.JPG)
+![vision][pict1]
+
+[pict1]: ../main/docs/assets/images/healthvision.jpg
