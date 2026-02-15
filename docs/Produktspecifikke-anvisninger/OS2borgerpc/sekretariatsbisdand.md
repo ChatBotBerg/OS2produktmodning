@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Talentudviklings bistand til OS2borgerpc"
+title: "Talentudviklings bistand til OS2borgerPc"
 author: "Anna-Lis Berg"
 date: "10-12-2025"
 status: "Final" 
 parent: "OS2borgerpc"
-nav_order: 8
+nav_order: 6
 has_children: true
 ---
 📆 _sidst opdateret: {{ site.time | date: '%B %d, %Y' }}_
