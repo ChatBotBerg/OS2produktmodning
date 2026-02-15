@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Timeline for støtte til produktforvaltningen"
+title: "Produktforvaltning 2025"
 author: "Anna-Lis Berg"
 date: "19-08-2025"
 status: "Udkast" 
