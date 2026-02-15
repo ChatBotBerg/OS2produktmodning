@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Talentudviklings bistand til OS2borgerPc"
+title: "Talentudvikling i OS2borgerPc"
 author: "Anna-Lis Berg"
 date: "10-12-2025"
 status: "Final" 
