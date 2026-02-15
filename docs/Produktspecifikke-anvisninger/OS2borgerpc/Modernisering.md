@@ -5,7 +5,7 @@ author: "Anna-Lis Berg"
 date: "31-10-2025"
 status: "Udkast" 
 parent: "Talentudvikling i OS2borgerpc"
-nav_order: 11
+nav_order: 2
 has_children: false
 ---
 
