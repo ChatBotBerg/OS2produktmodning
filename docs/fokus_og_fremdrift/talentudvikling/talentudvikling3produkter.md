@@ -6,7 +6,7 @@ date: "19-08-2025"
 status: "final" 
 parent: "Fokus og fremdrift"
 nav_order: 1
-has_children: false
+has_children: true
 ---
 
 # Produkspecifik talentudvikling
