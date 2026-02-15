@@ -4,7 +4,7 @@ title: "Timeline for støtte til produktforvaltningen"
 author: "Anna-Lis Berg"
 date: "19-08-2025"
 status: "Udkast" 
-parent: "Talentudvikling i OS2borgerpc"
+parent: "Talentudvikling i OS2borgerPc"
 nav_order: 1
 has_children: false
 ---
