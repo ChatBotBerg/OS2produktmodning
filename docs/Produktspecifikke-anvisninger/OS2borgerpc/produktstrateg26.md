@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "OS2borgerpc produktstrategi 2026"
+title: "**Produktstrategi 2026-2027**"
 author: "Anna-Lis Berg"
 date: "10-12-2025"
-status: "Udkast" 
+status: "final" 
 parent: "OS2borgerpc"
 nav_order: 1
 has_children: false
@@ -11,24 +11,19 @@ has_children: false
 
 📆 _sidst opdateret: {{ site.time | date: '%B %d, %Y' }}_
 
-# OS2borgerpc: Produktstrategi 2026/2027  
-```mermaid
-gantt
-    dateFormat  YYYY-MM-DD
-    title       Os2 borgerPC Produktstrategi 2026/27- Forløbsroadmap
-  
-    %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week ("sunday") or "weekends", but not the word "weekdays".)
-    
-   section Strategi periode
-   tart                                : vert, v1, 2025-08-04,
-   Forberedelse                        :des1, 2025-08-028, 2025-01-03
-   Vedtagelse af strategi          :crit, milestone, m1,2025-12-02, 0d
-   Forberedelse                          :des2, 2025-12-02, 2026-01-15
-   Lanciering                    :crit, milestone, m1,2026-01-15, 0d
-   Eksekvering fase 1                  :des3, 2026-01-15, 2026-12-31
-   Evaluering  og revision              :des3, 2026-11-15, 2027-01-15
-   Eksekvering fase 2                  :des3, 2027-01-15, 2027-06-01
-``` 
+# OS2borgerpc Produktstrategi 2026-2027  
+
+OS2borgerpc står overfor en gennemgribende opgradering, revision og modernisering, som blandt andet inkludere en omkostningstung opgradering af det underliggende styresystem ( Ubuntu 22.04) og dertilhørende omskrivninge i kodebasen. 
+
+De indledende analyser har vist at det bliver omkostningstungt at gennemføre en sådan opgradering og ressourcekrævende at vedligeholde løsningen efterfølgende. 
+Derfor har produktets styre- og koordinationsgruppe besluttet at det er tid til se sig om efter alternative moderne løsninger.
+
+Produktstrategien for 2026/2027 er derfor at man holder den eksisterende løsning sikker og stabil og dens kodebase opdateret, imedens man i paralell afprøver og produktionsmodner en moderne og digitalsuverænt erstatning.
+
+Den overordnede strategi for 2026 og 2027 er som flg:
+1. **OS2borgerPC v2 forvaltningen fortsætter i sin nuværende form**, med fokus på sikkerheds opdatering og driftsstabilitet, samt minimal indsats i forhold til featureudvilling.
+2. **OS2borgerpc V3 designes og produktmodnes i et paralell projekt**,  med fokus på afprøvning og evaluering af eksisterende Open-Source løsninger og konfigurering af en moderne og digital suveræn biblioteksPC. 
+
 
 # OS2borgerpc: Produktstrategi 2026/2027 produkt roadmap
 ```mermaid
@@ -54,7 +49,5 @@ gantt
    MVP udvikling                         :des1, 2026-05-01, 2026-09-01
    Produktionsmodning                      :des1, 2026-09-01, 2027-02-01
    Release af v1                          :crit, milestone, m1,2027-02-01, 0d
-   Migrering                            :des5, 2027-02-01, 2027-07-01
-
-
+   Migrering                            :des5, 2027-02-01, 2027-07-
 ``` 

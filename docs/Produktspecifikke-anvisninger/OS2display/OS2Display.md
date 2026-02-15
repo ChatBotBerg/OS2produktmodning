@@ -5,7 +5,7 @@ author: "Anna-Lis Berg"
 date: "19-08-2025"
 status: "Udkast" 
 parent: "Produktspecifikke anvisninger"
-nav_order: 3
+nav_order: 2
 has_children: true
 ---
 ---
