@@ -6,7 +6,7 @@ date: "01-02-2025"
 status: "Udkast" 
 parent: "OS2borgerpc"
 nav_order: 3
-has_children: false
+has_children: true
 ---
 
 📆 _sidst opdateret: {{ site.time | date: '%B %d, %Y' }}_
