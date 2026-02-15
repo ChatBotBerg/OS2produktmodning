@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Sekretariatssupport til produkmodernisering"
+title: "Sekretariatssupport til produktudvikling"
 author: "Anna-Lis Berg"
 date: "31-10-2025"
 status: "Udkast" 
@@ -11,7 +11,7 @@ has_children: false
 
 📆 _sidst opdateret: {{ site.time | date: '%B %d, %Y' }}_
 
-# OS2borgerpc: Sekretariatssupport til produkmodernisering
+# OS2borgerpc: Sekretariatssupport til produktudvikling
 
 ```mermaid
 gantt
