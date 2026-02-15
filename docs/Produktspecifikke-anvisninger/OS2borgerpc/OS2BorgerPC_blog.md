@@ -4,7 +4,7 @@ title: "Blog indlæg H1 2025"
 author: "Anna-Lis Berg"
 date: "19-09-2025"
 status: "færdigt" 
-parent: "Talentudviklings bistand til OS2borgerpc"
+parent: "Talentudvikling i OS2borgerPc"
 nav_order: 4
 has_children: false
 
