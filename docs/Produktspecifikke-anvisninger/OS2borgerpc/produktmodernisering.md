@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Sekretariats support til produkmodernisering"
+title: "Sekretariatssupport til produkmodernisering"
 author: "Anna-Lis Berg"
 date: "31-10-2025"
 status: "Udkast" 
