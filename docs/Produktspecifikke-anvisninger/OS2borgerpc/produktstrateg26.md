@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "**Produktstrategi 2026-2027**"
+title: "Produktstrategi 2026-2027"
 author: "Anna-Lis Berg"
 date: "10-12-2025"
 status: "final" 
