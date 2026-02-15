@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "OS2borgerpc V3"
+title: "OS2borgerPc V3"
 author: "Anna-Lis Berg"
 date: "01-02-2025"
 status: "Udkast" 
