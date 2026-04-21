@@ -33,7 +33,7 @@ Vi anvender NornNet som arbejdsbetegnelsen for projekt og projekt leverance  ide
 
 ## Projekt introduktion
 
-**Projektnavn**: Nornet
+**Projektnavn**: NornNet
 
 **Tagline**:  NornNet —  frembringelse af digital suveræne brugerdevices
 
@@ -105,8 +105,8 @@ Projektets overordnede milepæle er som flg :
 
 - 02.08.2025: Igangsætning af indledende afklaringer
 - 02.12.2025: Formel accept af idegrundlag i OS2 brogerPC's styrende organer
-- 05.03.2026: Godkendelse af projektoplæg, ressourcemodel og budgetramme
-- 10.03.2026: Formel Kickoff på POC og Hackaton
+- 05.03.2025: Godkendelse af projektoplæg, ressourcemodel og budgetramme
+- 10.03.2025: Formel Kickoff på POC og Hackaton
 - 01.02.2026: Release af produktions stabil beta version i OS2borgerPc domænet
 
 
@@ -118,7 +118,7 @@ gantt
   
     %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week ("sunday") or "weekends", but not the word "weekdays".)
 
-   
+  
    section POC & MVP aktiviteter
    
    Årsskifte 26                                  : vert, v3, 2026-01-01,

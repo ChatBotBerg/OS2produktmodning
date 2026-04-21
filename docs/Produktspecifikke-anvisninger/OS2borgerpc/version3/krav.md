@@ -11,6 +11,10 @@ has_children: false
 
 ## UDKAST: Krav til OS2BorgerPC 3
 
+Nedenstående karv er udararbejdet af Product Owner Agnethe Moos på vegne af OS2borgerPc produktfællesskabet. kravene afspejler de krav der er stillede til det eksisterende produkt og er opstillet forud for det planlagte POC forløb.
+
+I løbet af POC forløbet vil disse domænespecifikke krav og ønsker blive addresseret og raffineret i forhold til hvor hvornår og hvordan de opfyldes i en moderne standartiseret løsning.
+
 {:toc}
 
 #### Interessenter
