@@ -19,7 +19,7 @@ Hvis man organisere det daglige forvaltningsarbejde omkring forvaltningen af ope
 4. Produktudvikling og leverandørsamarbejde
 
 
-De to første spor handler om administration, kommunikation og communitybuilding, varetages almindeligvis af en Produkt administrator, en Produktkoordinator eller en Communitymanager med generel AC kompetence
+De to første spor handler om administration, kommunikation og communitybuilding, varetages almindeligvis af en Produktadministrator, en Produktkoordinator eller en Communitymanager med generel AC kompetence
 
 De to sidste handler om produktudvikling, leveralceledelse og leverandørsmarbejde, og varetages almindeligvis af en Product Owner eller Technical Lead med kompetencer indenfor open source baseret IT udvikling og vedligehold.
 
@@ -47,19 +47,20 @@ Disse to ressourcer skal tilsammen varetage den daglige forvaltning af produktf�
   - Koordinationsgruppe
   - Styregruppe
   - Faggrupper
-
-1. **Community building** og crowdfunding
+2. **Community building** og crowdfunding
 - Koordinering af den strategiske 
 - Udarbejdelse af nyhedsbreve og linked-in opslag
 - Etablering og faciligering af årshjul og praksis for eksterne fora:
   - Communitymøder (tilsluttede myndigheder)
   - Brugerklub møder (anvendere)
   - teknisk erfagruppemøder (kommunale driftsafdelinger og drifts leverandører)
+- Koordinering og organisering af crowdfunding aktiviteter
         
-1. **Produktforvaltning** og leverandørsamarbejde
+3. **Produktforvaltning** og leverandørsamarbejde
+
 - 
 
-1. **Produktudvikling** og vedligehold af Kildekode
+4. **Produktudvikling** og vedligehold af Kildekode
 - 
 
 For små produkter med få anvendere og centraliceret drift vil alle fire spoor kunne varetages af en teknisk og en administrativ koordinator.
