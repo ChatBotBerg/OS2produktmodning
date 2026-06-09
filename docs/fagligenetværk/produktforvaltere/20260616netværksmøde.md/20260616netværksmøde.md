@@ -5,7 +5,7 @@ author: "Anna-Lis Berg"
 date: "10-06-2026"
 status: "Udkast" 
 parent: "Faglige Netværk"
-nav_order: 1
+nav_order: 2
 has_children: true
 ---
 
