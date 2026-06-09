@@ -4,7 +4,7 @@ title: "Produktforvaltning"
 author: "Anna-Lis Berg"
 date: "22-01-2026"
 status: "draft" 
-parent: "generelle anbefalinger"
+parent: "Generelle anvisninger"
 nav_order: 1
 has_children: false
 
