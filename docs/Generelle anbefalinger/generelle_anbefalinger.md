@@ -4,7 +4,7 @@ title: "Generelle anvisninger"
 author: "Anna-Lis Berg"
 date: "19-09-2025"
 status: "Udkast" 
-nav_order: 3
+nav_order: 2
 has_children: true
 ---
 ---
