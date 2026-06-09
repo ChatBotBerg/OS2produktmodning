@@ -6,7 +6,7 @@ date: "10-06-2026"
 status: "Udkast" 
 parent: "Fagligt netværk om Produktforvaltning"
 nav_order: 1
-has_children: false
+has_children: true
 ---
 ---
 
