@@ -8,7 +8,6 @@ parent: "Fagligt netværk om Produktforvaltning"
 nav_order: 1
 has_children: true
 ---
----
 
 📆 _sidst opdateret: {{ site.time | date: '%B %d, %Y' }}_
 
