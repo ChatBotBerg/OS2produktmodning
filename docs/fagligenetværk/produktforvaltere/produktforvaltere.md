@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Fagligt netværk om Produktforvaltning"
+title: "Fagligt netværk om OS2 Produkt- og Projektforvaltning"
 author: "Anna-Lis Berg"
 date: "10-06-2026"
 status: "Udkast" 
@@ -11,9 +11,9 @@ has_children: true
 
 📆 _sidst opdateret: {{ site.time | date: '%B %d, %Y' }}_
 
-# Faglige Netværk om Produktforvaltning
+# Faglige Netværk om OS2 Produkt- og Projekt forvaltning
 
-16 Juni 2026 etableres der et formelt netværk for alle i OS2 som har en formel rolle den daglige forvaltning af OS2's produktportefølge.
+16 Juni 2026 etableres der et formelt netværk for alle i OS2 som har en formel rolle den daglige forvaltning af OS2's produktportefølge,
 
 **Netværket har til formål at:** 
 - styrke samarbejdet og vidensdelingen på tværs af produkter
@@ -24,9 +24,14 @@ has_children: true
 
 **Medlemmer og forankring af Netværket**
 
-Alle der har en formel produktfinancieret rolle som produktforvalter i OS2, er automatisk medlem af netværket.
+Netværket er for alle OS2 produktkoordinator, Product Owner, programleder, Community Manager, Projektledere m.v, der har en formel produktfinancieret rolle i et OS2 produkt eller projekt. 
 
-Netværket er forankret i OS2sekretariatet 
+Fælles for ovennævnte jobtitler er at de alle arbejder med den daglige forvaltning af et af OS2's produkter eller projekter, hvad enten deres fokus er administrativt, kommunikativt eller teknisk. 
+
+
+Fokus for Netværket er såleded de udfordringer man står i som daglig leder i et os2 Produkt eller Projekt, og den samlede betegnelse for netværkets forskellige medlems typer er Produktforvaltere. 
+
+Netværket er forankret i OS2sekretariatet
 
 
 **Mødetyper, møderække: og mødepligt**
@@ -51,7 +56,7 @@ Netværkets medlemmer forventes som minimum at deltage i de netværks samlinger 
 
 Netværkes medlemmer har mulighed for at igangsætte og lede egne erfagrupper
 
-## Mødepklan og fremtidig Årshjul 
+## Mødeplan og  Årshjul 
 
 ```mermaid
 gantt
@@ -63,8 +68,7 @@ gantt
     section  Formelle Netværksmøder 
     Årsskifte 25/26                  : vert, v1, 2026-01-01,
     Første Netværkssamling           :crit, milestone, a1,2026-06-16,0d
-    ____________                      : vert, v1, 2026-01-01,
-    
+    ____________                      : vert, v1, 2026-01-01,    
  
 
     section Virtuelle MeetUP
@@ -85,7 +89,7 @@ gantt
 
 
 
-## Årshjul 2027
+##  
 
 ```mermaid
 gantt
