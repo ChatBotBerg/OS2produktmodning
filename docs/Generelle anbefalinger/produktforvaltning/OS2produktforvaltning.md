@@ -61,8 +61,56 @@ Disse to ressourcer skal tilsammen varetage den daglige forvaltning af produktf�
 - 
 
 4. **Produktudvikling** og vedligehold af Kildekode
-- 
 
-For små produkter med få anvendere og centraliceret drift vil alle fire spoor kunne varetages af en teknisk og en administrativ koordinator.
+1. **Sekretariasfunktion og økonomirapportering**
+  - Administration,  økonomiopfølgning og budgetrapportering.
+  - Mødeplanlægning, referatskrivning og  publisering af referater.
+  - Administrativ onboarding af nye medlemmer og opdatering af medlemsinformation
+  - opdatering af hjemmeside og udarbejdelse af Informations materiale
+  - Etablering og facilitering af årshjul og praksis for interne fora 
+    - Koordinationsgruppe
+    - Styregruppe
+    - Faggrupper
+  - Koordinering af mødekalendere, invitationslister og dokumentarkiv.
+  
+2. **Community building og crowdfunding**
+   - Koordinering af den strategiske community-indsats og sponsor-/fundraising-strategi.
+   -  Udarbejdelse og udsendelse af nyhedsbreve og LinkedIn-opslag
+   -  Udarbejdelse og vedligehold af en kommunikationsplan.
+   -  Etablering og facilitering af årshjul og praksis for eksterne fora:
+      -  communitymøder, 
+      -  brugerklub, 
+      -  tekniske erfagruppemøder
+   -  Koordinering og organisering af crowdfunding-aktiviteter og sponsorengagement.
+   -  Facilitere community-onboarding, contributor-guides og engagementskampagner.
+  
+3. **Løbende vedligehold, sikkerhedsopdatering og fejlretning**
+- Modtage, prioritere og følge op på issues og sikkerhedsalarmer (triage).
+- Kontraktstyring af leverandørers vedligehold (SLA’er, scope, priser, eskalation)
+- Kommunikere status og risici internt/eksternt
+- Sikre test- og deploy-processer (CI/CD, automatiske checks, staging, regressionstest).
+- Sikre repo-sikkerhed: adgangsstyring, branch protection, secret/dependency scanning.
+- publicere incident-opdateringer.
+- Styre GitHub-workflow: issue-/PR-templates, labels, assignees, milestones og releases.
+-  Vedligeholde releaseplan, hotfix-procedurer, changelogs og versionspolitik.
+- Sikre contributor-oplevelse: opdatere CONTRIBUTING, CODE_OF_CONDUCT og onboardingmateriale.
+- Sikre transperant godkendelse af patches/PR’er fra leverandører og community; følge QA/accept.
+- Håndtere licens- og compliance-spørgsmål for tredjepartsbiblioteker.
 
-For størrer og mere komplekse produkter vil det kræve flere interne ressourcer at være i kontrol over såvel vedligehold som videreudvikling. 
+4. **Produktstrategi, featureudvikling, strategiske roadmap og leverancestyring**
+- Udforme og publicere roadmap og prioriterede mål; holde interessenter orienteret
+- Budgetansvar og beslutning om make-or-buy vs. community-bidrag; styre funding/crowdfunding.
+- Udarbejde krav, acceptance criteria og holde backlog/epics opdateret og synlig
+- Planlægge leverandørkapacitet, kontraktmæssige milepæle og sprint-/release-planer.
+- Måle og rapportere på leverancer via KPI’er (lead time, throughput, PR-merge-time, kvalitet).
+- Koordinere leverandører, interne teams og community; drive RFCs og diskussioner.
+- Styre tekniske risici,  afhængigheder, teknisk gæld, sikkerhed og governance
+- Sikre håndtering af GIthub maintenance  og overjholdelse af Contributin guidelines.
+- Facilitere fatlæggelse og dokumentation af  arkitekturprincipper, backward-compatibility og migrationsstrategi.
+- Etablere og håndhæve repo-governance: branching-strategi, release-cadence, adgangs- og sikkerhedsprocedurer.
+
+For små produkter med få anvendere og centraliceret drift vil alle fire spoor kunne varetages af:
+- en teknisk velfunderet Product Owner 
+- en Administrativ koordinator i tæt samarbejde med en eller flere leverandører
+
+For størrer og mere komplekse produkter vil det kræve flere ressourcer at være i kontrol over såvel vedligehold som videreudvikling. 
